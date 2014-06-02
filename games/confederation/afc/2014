@@ -1,0 +1,288 @@
+Competition: 2014 FIFA World Cup qualification (AFC)
+BlockSource: http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_(AFC)
+
+Round: 1
+
+6/29/2011; Malaysia; 2-1; Chinese Taipei; National Stadium, Kuala Lumpur; Chaiya Mahapab; 45000
+
+7/3/2011; Chinese Taipei; 3-2; Malaysia; Municipal Stadium, Taipei; Vo Minh Tri; 16768
+
+6/29/2011; Bangladesh; 3-0; Pakistan; Bangabandhu National Stadium; Mohammed Abu Loum; 5326
+
+7/3/2011; Pakistan; 0-0; Bangladesh; Punjab Stadium, Lahore; Ali Abdulnabi; 3500
+
+6/29/2011; Cambodia; 4-2; Laos; Olympic Stadium, Phnom Penh; Yadollah Jahanbazi; 25000
+
+7/3/2011; Laos; 6-2 (aet); Cambodia; New Laos National Stadium; Ryuji Sato; 9000
+
+6/29/2011; Sri Lanka; 1-1; Philippines; Sugathadasa; Tayeb Shamsuzzaman; 4000
+
+7/3/2011; Philippines; 4-0; Sri Lanka; Rizal Memorial Stadium; Kim Sang-Woo; 12500
+
+6/29/2011; Afghanistan; 0-2; Palestine; Metallurg Stadium; Nasser Darwish; 5000
+
+7/3/2011; Palestine; 1-1; Afghanistan; Faisal Al-Husseini International Stadium; Banjar Al-Dosari; 9000
+
+6/29/2011; Vietnam; 6-0; Macau; Thong Nhat Stadium; Dmitriy Mashentsev; 20000
+
+7/3/2011; Macau; 1-7; Vietnam; Estadio Campo Desportivo; Kadhurh Auda; 500
+
+6/29/2011; Nepal; 2-1; Timor-Leste; Dasarath Rangasala Stadium; Ali Sabbagh; 9000
+
+7/2/2011; Timor-Leste; 0-5; Nepal; Darsarath Rangasala Stadium; Lee Min-Hu; 15000
+
+6/29/2011; Mongolia; 1-0; Myanmar; MFF Football Centre; Kim Jong-Hyeok; 3500
+
+7/3/2011; Myanmar; 2-0; Mongolia; Thuwanna Stadium; Liu Kwok Man; 18000
+
+Round: 2
+
+7/23/2011; Thailand; 1-0; Palestine; New I-mobile Stadium; Lee Min-Hu; 17000
+
+7/28/2011; Palestine; 2-2; Thailand; Faisal Al-Husseini International Stadium; Salah Abbas Alabbasi; 11500
+
+7/23/2011; Lebanon; 4-0; Bangladesh; Camille Chamoun Sports City Stadium; Kadhum Auda; 2000
+
+7/28/2011; Bangladesh; 2-0; Lebanon; Bangabandhu National Stadium; Apisit Aonrak; 11000
+
+7/23/2011; China; 7-2; Laos; Tuodong Stadium; Strebre Delovski; 13500
+
+7/28/2011; Laos; 1-6; China; New Laos National Stadium; Tayeb Shamsuzzaman; 13000
+
+7/23/2011; Turkmenistan; 1-1; Indonesia; Olympic Stadium, Ashgabat; Mohsen Torky; 7500
+
+7/28/2011; Indonesia; 4-3; Turkmenistan; Gelora Bung Karno Stadium; Benjamin Williams; 88000
+
+7/23/2011; Kuwait; 3-0; Philippines; Mohammed Al-Hamad Stadium; Mohammad Abu Loum; 20000
+
+7/28/2011; Philippines; 1-2; Kuwait; Rizal Memorial Stadium; Liu Kwok Man; 13000
+
+7/23/2011; Oman; 3-0; Myanmar; Seeb Stadium; Ali Sabbagh; 6300
+Forfeit
+Notes: Abandoned after 39' due to crowd violence. Myanmar was banned from 2014 and 2018 World Cups as a result.
+* Create ban object. connect.
+
+7/28/2011; Myanmar; 0-2; Oman; Thuwunna Stadium; Ryuji Sato; 30000
+
+7/23/2011; Saudi Arabia; 3-0; Hong Kong; Prince Mohamed bin Fahd Stadium; Vladislav Tseytlin; 20354
+
+7/28/2011; Hong Kong; 0-5; Saudi Arabia; Siu Sai Wan Sports Ground; Vo Minh Tri; 1402
+
+7/23/2011; Iran; 4-0; Maldives; Azadi Stadium; Chaiya Mahapab; 20195
+
+7/28/2011; Maldives; 0-1; Iran; Rasmee Dhandu Stadium; Kim Sang-Woo; 9000
+
+7/23/2011; Syria; 0-3; Tajikstan; King Abdullah Stadium; Nasser Darwish; 2500
+Forfeit
+Notes: Syria fielded ineligible George Mourad
+
+7/28/2011; Tajikstan; 3-0; Syria; Mettalurg Stadium; Dmitry Mashentsev; 9000
+Forfeit
+Notes: Syria fielded ineligible George Mourad
+
+7/23/2011; Qatar; 3-0; Vietnam; Jassim Bin Hamed Stadium; Ali Al Badwawi; 6786
+
+7/28/2011; Vietnam; 2-1; Qatar; My Dinh National Stadium; Peter Green; 20000
+
+7/23/2011; Iraq; 2-0; Yemen; Franso Hariri Stadium; Valentin Kovalenko; 20000
+
+7/28/2011; Yemen; 0-0; Iraq; Sheikh Khalifa International Stadium; Muhsen Basma; 1500
+
+7/23/2011; Singapore; 5-3; Malaysia; Jalan Besar Stadium; Nawaf Shukralla; 6000
+
+7/28/2011; Malaysia; 1-1; Singapore; National Stadium, Kuala Lumpur; Hiroyoshi Takayama; 90000
+
+7/23/2011; Uzbekistan; 4-0; Kyrgyzstan; Pakhtakor Markaziy Stadium; Abdullah Balideh; 20257
+
+7/28/2011; Kyrgyzstan; 0-3; Uzbekistan; Spartak Stadium; Ali Abdulnabi; 14700
+
+7/23/2011; United Arab Emirates; 3-0; India; Sheikh Khalifa International Stadium; Banjar Al-Dosari; 3179
+
+7/28/2011; India; 2-2; United Arab Emirates; Ambedkar Stadium; Malik Abdul Bashir; 13000
+
+7/23/2011; Jordan; 9-0; Nepal; Amman International Stadium; Yadollah Jahanbazi; 17000
+
+7/28/2011; Nepal; 1-1; Jordan; Dasarath Rangasala Stadium; Fan Qi; 20000
+
+
+Round: 3
+
+Group: A
+
+9/2/2011; China; 2-1; Singapore; Tuodong Stadium; Andre El Haddad; 17000
+9/2/2011; Iraq; 0-2; Jordan; Franso Hariri Stadium; Nawaf Shukralla; 24000
+
+9/6/2011; Singapore; 0-2; Iraq; Jalan Besar Stadium; Minoru Tojo; 5505
+9/6/2011; Jordan; 2-1; China; Amman International Stadium; Ravshan Irmatov; 19000
+
+10/11/2011; Singapore; 0-3; Jordan; Jalan Besar Stadium; Choi Myung-Yong; 3799
+10/11/2011; China; 0-1; Iraq; Shenzhen Bay Sports Center; Saeid Mozaffarizadeh; 25021
+
+11/11/2011; Iraq; 1-0; China; Grand Hamad Stadium; Peter Green; 5000
+11/11/2011; Jordan; 2-0; Singapore; Amman International Stadium; Benjamin Williams; 19000
+
+11/15/2011; Singapore; 0-4; China; Jalan Besar Stadium; Abullah Balideh; 5474
+11/15/2011; Jordan; 1-3; Iraq; Amman International Stadium; Ali Al Badwawi; 13000
+
+2/29/2012; China; 3-1; Jordan; Guangzhou University City Stadium; Vo Minh Tri; 6104
+2/29/2012; Iraq; 7-1; Singapore; Grand Hamad Stadium; Abdullah Al Hilali; 950
+
+Group: B
+
+9/2/2011; South Korea; 6-0; Lebanon; Goyang Stadium; Malik Abdul Bashir; 37655
+9/2/2011; United Arab Emirates; 2-3; Kuwait; Al Qatara Stadium; Muhsen Basma; 8715
+
+9/6/2011; Lebanon; 3-1; United Arab Emirates; Camille Chamoun Sports City Stadium; Alireza Faghani; 4000
+9/6/2011; Kuwait; 1-1; South Korea; Peace and Friendship Stadium; Mohsen Torky; 2000
+
+10/11/2011; South Korea; 2-1; United Arab Emirates; Suwon World Cup Stadium; Tan Hai; 28689
+10/11/2011; Lebanon; 2-2; Kuwait; Camille Chamoun Sports City Stadium; Masaaki Toma; 32000
+
+11/11/2011; United Arab Emirates; 0-2; South Korea; Al-Rashid Stadium; Ravshan Irmatov; 8272
+11/11/2011; Kuwait; 0-1; Lebanon; Peace and Friendship Stadium; Valentin Kovalenko; 17500
+
+11/15/2011; Lebanon; 2-1; South Korea; Camille Chamoun Sports City Stadium; Khalil Al Ghamdi; 35000
+11/15/2011; Kuwait; 2-1; United Arab Emirates; Peace and Friendship Stadium; Abdullah Al Hilali; 10000
+
+2/29/2012; South Korea; 2-0; Kuwait; Seoul World Cup Stadium; Yuichi Nishimura; 46551
+2/29/2012; United Arab Emirates; 4-2; Lebanon; Al-Nahyan Stadium; Peter Green; 10000
+
+Group: C
+
+9/2/2011; Japan; 1-0; North Korea; Saitama Stadium 2002; Ali Al Badwawi; 62000
+9/2/2011; Tajikstan; 0-1; Uzbekistan; Mettalurg Stadium; Tan Hai; 15000
+
+9/6/2011; North Korea; 1-0; Tajikstan; Yanggakdo Stadium; Vo Minh Tri; 28000
+9/6/2011; Uzbekistan; 1-1; Japan; Pakhtakor Markaziy Stadium; Khalil Al Ghamdi; 32000
+
+10/11/2011; North Korea; 0-1; Uzbekistan; Yanggakdo Stadium; Alireza Faghani; 29000
+10/11/2011; Japan; 8-0; Tajikstan; Nagai Stadium; Benjamin Williams; 44688
+
+11/11/2011; Tajikstan; 0-4; Japan; Central Stadium, Dushanbe; Kim Dong Jin; 18000
+11/11/2011; Uzbekistan; 1-0; North Korea; Pakhtakor Markaziy Stadium; Andre El Haddad; 27525
+
+11/15/2011; North Korea; 1-0; Japan; Kim Il-sung Stadium; Nawaf Shukralla; 50000
+11/15/2011; Uzbekistan; 3-0; Tajikstan; Pakhtakor Markaziy Stadium; Mohamed Al Zarouni; 5325
+
+2/29/2012; Tajikstan; 1-1; North Korea; 20 Years of Independence Stadium; Benjar Al-Dosari; 35000
+2/29/2012; Japan; 0-1; Uzbekistan; Toyota Stadium, Tokyo; Abdullah Balideh; 42720
+
+Group: D
+
+9/2/2011; Australia; 2-1; Thailand; Suncorp Stadium; Abdullah Balideh; 24540
+9/2/2011; Oman; 0-0; Saudi Arabia; Seeb Stadium; Abdulrahman Abdou; 14000
+
+9/6/2011; Thailand; 3-0; Oman; Rajamangala Stadium; Kim Dong Jin; 19000
+9/6/2011; Saudi Arabia; 1-3; Australia; Prince Mohamed bin Fahd Stadium; Yuichi Nishimura; 15000
+
+10/11/2011; Australia; 3-0; Oman; ANZ Stadium; Valentin Kovalenko; 24732
+10/11/2011; Thailand; 0-0; Saudi Arabia; Rajamangala Stadium; Ravshan Irmatov; 42000
+
+11/11/2011; Oman; 1-0; Australia; Sultan Qaboos Sports Complex; Ali Abdulnabi; 4500
+11/11/2011; Saudi Arabia; 3-0; Thailand; King Fahd International Stadium; Liu Kwok Man; 32500
+
+11/15/2011; Thailand; 0-1; Australia; Suphachalasai Stadium; Saeid Mozaffarizadeh; 19400
+11/15/2011; Saudi Arabia; 0-0; Oman; King Fahd International Stadium; Mohsen Torky; 62740
+
+2/29/2012; Australia; 4-2; Saudi Arabia; AAMI Park; Kim Dong-Jin; 24240
+2/29/2012; Oman; 2-0; Thailand; Sultan Qaboos Sports Complex; Masaaki Toma; 22000
+
+Group: E
+
+9/2/2011; Iran; 3-0; Indonesia; Azadi Stadium; Masaaki Toma; 89800
+9/2/2011; Bahrain; 0-0; Qatar; Bahrain National Stadium; Mohamed Al Zarouni; 5000
+
+9/6/2011; Indonesia; 0-2; Bahrain; Gelora Bung Karno Stadium; Lee Min-Hu; 85000
+9/6/2011; Qatar; 1-1; Iran; Jassim Bin Hamad Stadium; Choi Myung-Yong; 8125
+
+10/11/2011; Indonesia; 2-3; Qatar; Gelora Bung Karno Stadium; Malik Abdul Bashir; 28000
+10/11/2011; Iran; 6-0; Bahrain; Azadi Stadium; Peter Green; 97000
+
+11/11/2011; Bahrain; 1-1; Iran; Bahrain National Stadium; Malik Abdul Bashir; 18000
+11/11/2011; Qatar; 4-0; Indonesia; Jassim Bin Hamad Stadium; Muhsen Basma; 6500
+
+11/15/2011; Indonesia; 1-4; Iran; Gelora Bung Karno Stadium; Tan Hai; 6000
+11/15/2011; Qatar; 0-0; Bahrain; Jassim Bin Hamad Stadium; Yuichi Nishimura; 10509
+
+2/29/2012; Bahrain; 10-0; Indonesia; Bahrain National Stadium; Andre El Haddad; 3000
+2/29/2012; Iran; 2-2; Qatar; Azadi Stadium; Ravshan Irmatov; 91300
+
+Round: 4
+Group: A
+
+6/3/2012; Uzbekistan; 0-1; Iran; JAR Stadium; Yuichi Nishimura; 9000
+6/3/2012; Lebanon; 0-1; Qatar; Camille Chamoun Sports City Stadium; Nawaf Shukralla; 40000
+
+6/8/2012; Lebanon; 1-1; Uzbekistan; Camille Chamoun Sports City Stadium; Abdullah Al Hilali; 13000
+6/8/2012; Qatar; 1-4; South Korea; Jassim Bin Hamad Stadium; Ali Al-Badwawi; 10730
+
+6/12/2012; South Korea; 3-0; Lebanon; Goyang Stadium; Masaaki Toma; 36756
+6/12/2012; Iran; 0-0; Qatar; Azadi Stadium; Peter Green; 100000
+
+9/11/2012; Uzbekistan; 2-2; South Korea; Pakhator Markaziy Stadium; Benjamin Williams; 33000
+9/11/2012; Lebanon; 1-0; Iran; Camille Chamoun Sports City Stadium; Tan Hai; 14000
+
+10/16/2012; Qatar; 0-1; Uzbekistan; Jassim Bin Hamad Stadium; Tan Hai; 11260
+10/16/2012; Iran; 1-0; South Korea; Azadi Stadium; Abdul Malik Abdul Bashir; 99885
+
+11/14/2012; Qatar; 1-0; Lebanon; Jassim Bin Hamed Stadium; Khalil Al Ghamdi; 12870
+11/14/2012; Iran; 0-1; Uzbekistan; Azadi Stadium; Ali Al-Badwawi; 43700
+
+3/26/2013; South Korea; 2-1; Qatar; Seoul World Cup Stadium; Yuchi Nishimura; 37222
+3/26/2013; Uzbekistan; 1-0; Lebanon; Bunyodkor Stadium; Abdul Malik Abdul Bashir; 31197
+
+6/4/2013; Qatar; 0-1; Iran; Jassim Bin Hamad Stadium; Abdul Malik Abdul Bashir; 11872
+6/4/2013; Lebanon; 1-1; South Korea; Camille Chamoun Sports City Stadium; Benjamin Williams; 8430
+
+6/11/2013; South Korea; 1-0; Uzbekistan; Seoul World Cup Stadium; Minoru Tojo; 50699
+6/11/2013; Iran; 4-0; Lebanon; Azadi Stadium; Masaaki Toma; 91300
+
+6/18/2013; South Korea; v; Iran; Ulsan Munsu Football Stadium; Tan Hai
+6/18/2013; Uzbekistan; v; Qatar; Bunyodkor Stadium; Peter Green
+
+Group: B
+
+6/3/2012; Japan; 3-0; Oman; Saitama Stadium 2002; Ravshan Irmatov; 63551
+6/3/2012; Jordan; 1-1; Iraq; Amman International Stadium; Valentin Kovalenko; 17000
+
+6/8/2012; Japan; 6-0; Jordan; Saitama Stadium 2002; Kim Dong-Jin; 60874
+6/8/2012; Oman; 0-0; Australia; Sultan Qaboos Sports Complex; Alireza Faghani; 11000
+
+6/12/2012; Australia; 1-1; Japan; Brisbane Stadium; Khalil Al Ghamdi; 40189
+6/12/2012; Iraq; 1-1; Oman; Grand Hamad Stadium; Abdulrahman Abdou; 1650
+
+9/11/2012; Japan; 1-0; Iraq; Saitama Stadium 2002; Abul Malik Abdul Bashir; 60593
+9/11/2012; Jordan; 2-1; Australia; King Abdullah Stadium; Abdullah Balideh; 16000
+
+10/16/2012; Oman; 2-1; Jordan; Sultan Qaboos Sports Complex; Nawaf Shukralla; 26000
+10/16/2012; Iraq; 1-2; Australia; Grand Hamad Stadium; Lee Min-Hu; 2183
+
+11/14/2012; Oman; 1-2; Japan; Sultan Qaboos Sports Complex; Abullah Balideh; 28360
+11/14/2012; Iraq; 1-0; Jordan; Grand Hamad Stadium; Tan Hai; 1755
+
+3/26/2013; Australia; 2-2; Oman; Stadium Australia; Ravshan Irmatov; 34603
+3/26/2013; Jordan; 2-1; Japan; King Abdullah Stadium; Alireza Faghani; 18000
+
+6/4/2013; Japan; 1-1; Australia; Saitama Stadium 2002; Nawaf Shukralla; 62172
+6/4/2013; Oman; 1-0; Iraq; Sultan Qaboos Sports Complex; Kim Dong-Jin; 18300
+
+6/11/2013; Australia; 4-0; Jordan; Docklands Stadium; Abdul Malik Abdul Bashir; 43785
+6/11/2013; Iraq; 0-1; Japan; Grand Hamad Stadium; Valentin Kovalenko; 1100
+
+6/18/2013; Australia; v; Iraq; Stadium Australia; Alireza Faghani
+6/18/2013; Jordan; v; Oman; King Abdullah Stadium; Valentin Kovalenko
+
+Round: 5
+
+9/6/2013; Jordan; 1-1; Uzbekistan; King Abdullah Stadium; Yuichi Nishimura; 16819
+
+9/13/2013; Uzbekistan; 1-1 (aet); Jordan; Pakhtakor Markziy Stadium; Ben Willims; 25621
+Penalty kicks: 8-9
+
+
+Round: intercontinental
+BlockSource: http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_(AFC_%E2%80%93_CONMEBOL_play-off)
+
+11/13/2013; Jordan; 0-5; Uruguay; Amman International Stadium; Svein Oddvar Moen; 17370
+
+11/20/2013; Uruguay; 0-0; Jordan; Estadio Centenario; Jonas Eriksson; 62000
