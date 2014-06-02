@@ -2,9 +2,9 @@ Competition: FIFA World Cup qualification (CONMEBOL)
 Season: 1990
 BlockSource: http://en.wikipedia.org/wiki/1990_FIFA_World_Cup_qualification_(CONMEBOL)
 
-Round: Group Stage
+Stage: group
 
-Group: Group 1
+Group: 1
 
 8/20/1989; Bolivia; 2-1; Peru; Estadio Hernando Siles; Armando Perez Hoyos; 43000
 8/27/1989; Peru; 0-2; Uruguay; Estadio Nacional de Peru; Carlos Esposito; 45000
@@ -13,7 +13,7 @@ Group: Group 1
 9/17/1989; Uruguay; 2-0; Bolivia; Estadio Centenario; Gaston Castro; 70000
 9/24/1989; Uruguay; 2-0; Peru; Estadio Centenario; Jose Roberto Wright; 57000
 
-Group: Group 2
+Group: 2
 
 8/20/1989; Colombia; 2-0; Ecuador; Estadio Metropolitano Roberto Melendez; Romualdo Arppi Filho
 8/27/1989; Paraguay; 2-1; Colombia; Estadio Defensores del Chaco; Hernan Silva
@@ -22,7 +22,7 @@ Group: Group 2
 9/17/1989; Colombia; 2-1; Paraguay; Estadio Metropolitano Roberto Melendez; Juan Daniel Cardellino
 9/24/1989; Ecuador; 3-1; Paraguay; Estadio Monumental Isidro Romero Carbo; Arnaldo Cezar Coelho; 18000
 
-Group: Group 3
+Group: 3
 
 7/30/1989; Venezuela; 0-4; Brazil; Estadio Brigido Irarte; Rene Ortube
 8/6/1989; Venezuela; 1-3; Chile; Estadio Brigido Irarte; Antenor Montalvan Miranda; 13000

@@ -1,10 +1,8 @@
-
 Competition: FIFA World Cup qualification (CONMEBOL)
 BlockSource: http://en.wikipedia.org/wiki/1986_FIFA_World_Cup_qualification_%E2%80%93_CONMEBOL_Group_1
 Season: 1986
 
-Group: Group 1
-
+Group: 1
 
 5/26/1985; Colombia; 1-0; Peru; Estadio El Campin; Luis Barrancos Alvarez; 53000
 5/26/1985; Venezuela; 2-3; Argentina; Estadio Polideportivo de Pueblo Nuevo; Juan Daniel Cardellino; 30000
@@ -24,8 +22,7 @@ Group: Group 1
 6/30/1985; Colombia; 2-0; Venezuela; Estadio El Campin; Victor Vasquez Sanchez; 35000
 6/30/1985; Argentina; 2-2; Peru; Estadio Monumental; Romualdo Arppi Filho; 65457
 
-
-Group: Group 2
+Group: 2
 
 3/3/1985; Ecuador; 1-1; Chile; Estadio Olimpico Atahualpa; Jose Ramiz Wright; 50000
 3/10/1985; Uruguay; 2-1; Ecuador; Estadio Centenario; Nunez Edison Perez; 60000
@@ -34,7 +31,7 @@ Group: Group 2
 3/31/1985; Ecuador; 0-2; Uruguay; Estadio Olimpico Atahualpa; Juan Escobar Veldez; 45000
 4/7/1985; Uruguay; 2-1; Chile; Estadio Centenario; Carlos Esposito; 75000
 
-Group: Group 3
+Group: 3
 
 5/26/1985; Bolivia; 1-1; Paraguay; Estadio Ramon Tahuichi Aguilera; Jacome Elias Guerrero; 20000
 6/2/1985; Bolivia; 0-2; Brazil; Estadio Ramon Tahuichi Aguilera; Jorge Romero; 24900
@@ -43,7 +40,6 @@ Group: Group 3
 6/23/1985; Brazil; 1-1; Paraguay; Maracana; Jose Martinez Bazan; 139923
 6/30/1985; Brazil; 1-1; Bolivia; Maracana; Enrique Labo Revoredo; 90709
 
-
 Round: Semifinals
 
 10/27/1985; Paraguay; 3-0; Colombia; Estadio Defensores del Chaco; Carlos Esposito; 40000
@@ -51,7 +47,6 @@ Round: Semifinals
 
 11/3/1985; Colombia; 2-1; Paraguay; Estadio Pascual Guerrero; Jose Ramiz Wright; 6000
 11/3/1985; Peru; 0-1; Chile; Estadio Nacional de Peru; Arnaldo Coelho; 42244
-
 
 Round: Final
 
