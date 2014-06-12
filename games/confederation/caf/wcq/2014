@@ -10,23 +10,23 @@ Round: 1
 11/11/2011; Guinea-Bissau; 1-1; Togo; Estadio Lino Correia; Malang Diedhiou; 3000
 11/15/2011; Togo; 1-0; Guineau-Bissau; Stade de Kegue; Mal Souley Mohamadou; 25000
 
-11/11/2011; Djibouti; 0-4; Namibia
-11/15/2011; Namibia; 4-0; Djibouti
+11/11/2011; Djibouti; 0-4; Namibia; Stade National Gouled; Tessema Bamlak; 3000
+11/15/2011; Namibia; 4-0; Djibouti; Sam Nujoma Stadium; Samuel Chirinda; 2145
 
-11/11/2011; Comoros; 0-1; Mozambique
-11/15/2011; Mozambique; 4-1; Comoros
+11/11/2011; Comoros; 0-1; Mozambique; Stade Said Mohamed Cheikh; David Jane; 3000
+11/15/2011; Mozambique; 4-1; Comoros; Estadio do Zimpeto; Ruzive Ruzive; 10000
 
-11/11/2011; Equatorial Guinea; 2-0; Madagascar
-11/15/2011; Madagascar; 2-1; Equatorial Guinea
+11/11/2011; Equatorial Guinea; 2-0; Madagascar; Nuevo Estadio de Malabo; Eric Otgo-Castane; 10000
+11/15/2011; Madagascar; 2-1; Equatorial Guinea; Mahamasina Municipal Stadium; Parmendra Nunkoo; 5000
 
-11/11/2011; Somalia; 0-0; Ethiopia
-11/15/2011; Ethiopia; 5-0; Somalia
+11/11/2011; Somalia; 0-0; Ethiopia; Stade National Goulde; Mohamed Hassan Ourouke; 3000
+11/15/2011; Ethiopia; 5-0; Somalia; Addis Ababa Stadium; Med Said Kordi; 22000
 
-11/11/2011; Lesotho; 1-0; Burundi
-11/15/2011; Burundi; 2-2; Lesotho
+11/11/2011; Lesotho; 1-0; Burundi; Setsoto National Stadium; Rainhold Shikongo; 5000
+11/15/2011; Burundi; 2-2; Lesotho; Prince Louis Rwangasore Stadium; Anthony Ramsy Raphael; 7200
 
-11/11/2011; Eritrea; 1-1; Rwanda
-11/15/2011; Rwanda; 3-1; Eritrea
+11/11/2011; Eritrea; 1-1; Rwanda; Cicero Stadium; Mahamadou Keita; 6000
+11/15/2011; Rwanda; 3-1; Eritrea; Stade Amahoro; Joshua Bondo; 10000
 
 11/11/2011; Swaziland; 1-3; Congo DR; Somhlolo national Stadium; Janny Sikazwe; 785
 11/15/2011; Congo DR; 5-1; Swaziland; Stade des Martyrs; Jean Michel Moukoko; 24000
@@ -41,15 +41,162 @@ Round: 2
 
 Group: A
 
+6/2/2012; Central African Republic; 2-0; Bostwana; Barthelemy Boganda Stadium; Bernard Camille; 20000
+
+6/3/2012; South Africa; 1-1; Ethiopia; Royal Bafokeng Stadium; Hamada Nampiandraza; 13611
+
+6/9/2012; Botswana; 1-1; South Africa; University of Botswana Stadium; Mahamadou Keita; 7500
+
+6/10/2012; Ethipia; 2-0; Central African Republic; Addias Ababa Stadium; Anthony Ramsy Raphael; 25000
+
+3/23/2013; South Africa; 2-0; Central African Republic; Cape Town Stadium; Ali Kalyango; 36740
+
+3/24/2013; Ethiopia; 1-0; Botswana; Addis Ababa Stadium; Redouane Jiyed; 22000
+
+6/8/2013; Botswana; 3-0; Ethipia; Lobatse Stadium; Dennis Batte; 5000
+Awarded
+
+6/8/2013; Central Africa Republic; 0-3; South Africa; Stade Ahmadou Ahidjo; William Agbovi; 7000
+
+6/15/2013; Botswana; 3-2; Central African Republic; Lobatse Stadium; Juste Ephrem Zio; 2500
+
+6/16/2013; Ethiopia; 2-1; South Africa; Addis Ababa Stadium; Mohamed Farouk Mahmoud; 22000
+
+9/7/2013; South Africa; 4-1; Botswana; Moses Mabhida Stadium; Badara Diatta; 28712
+
+9/7/2013; Central African Republic; 1-2; Ethiopia; Stade Alphonse Massemba-Debat; Mohamed Benouza; 1500
+
 Group: B
+
+6/2/2012; Sierra Leone; 2-1; Cape Verde; National Stadium (Freetown); William Agbovi; 25000
+
+6/2/2012; Tunisia; 3-1; Equatorial Guinea; Stade Mustapha Ben Jannet; Mehdi Abid Charef; 10000
+
+6/9/2012; Equatorial Guinea; 2-2; Sierra Leone; Nuevo Estadio de Malabo; Adam Cordier; 4000
+
+6/9/2012; Cape Verde; 1-2; Tunisia; Estadio da Varzea; Redouane Jiyed; 3600
+
+3/23/2013; Tunisia; 2-1; Sierra Leone; Stade Olympique de Rades; Mal Souley Mohamadou; 10000
+
+3/24/2013; Equatorial Guinea; 0-3; Cape Verde; Estadio de Malabo; Mahamadou Keita; 8000
+Awarded
+
+6/8/2013; Sierra Leone; 2-2; Tunisia; National Stadium (Freetown); Eric Otogo-Castane; 20000
+
+6/8/2013; Cape Verde; 3-0; Equatorial Guinea; Estadio da Varzea; Helder Martins de Carvalho; 3500
+
+6/15/2013; Cape Verde; 1-0; Sierra Leone; Estadio da Varzea; Anthony Ramsy Raphael; 3500
+
+6/16/2013; Equatorial Guinea; 1-1; Tunisia; Estadio de Malabo; Bernard Camille; 8000
+
+9/7/2013; Sierra Leone; 3-2; Equatorial Guinea; National Stadium (Freetown); Mohamed Hussein El-Fadil; 3000
+
+9/7/2013; Tunisia; 3-0; Cape Verde; Stade Olympique de Rades; Bakary Gassama; 9000
+Awarded
 
 Group: C
 
+6/2/2012; Gambia; 1-1; Morocco; Independence Stadium (Bakau); Neant Alioum; 15000
+
+6/2/2012; Ivory Coast; 2-0; Tanzania; Stade Felix Houphouet-Boigny; Slim Jedidi; 15000
+
+6/9/2012; Morocco; 2-2; Ivory Coast; Stade de Marrakech; Gehad Grisha; 356000
+
+6/9/2012; Tanzania; 2-1; Gambia; Benjamin Mkapa National Stadium; Ruzive Ruzive; 20000
+
+3/23/2013; Ivory Coast; 3-0; Gambia; Stade Felix Houphouet-Boigny; Eric Otogo-Castane; 20000
+
+3/24/2013; Tanzania; 3-1; Morocco; Benjamin Mkapa National Stadium; Helder Martins de Carvalho; 40000
+
+6/8/2013; Gambia; 0-3; Ivory Coast; Independence Stadium (Bakau); Janny Sikazwe; 24000
+6/8/2013; Morocco; 2-1; Tanzania; Stade de Marrakech; Daniel Bennett; 15000
+
+6/15/2013; Morocco; 2-0; Gambia; Stade de Marrakech; Mohamed Hussein El-Fadil; 15000
+6/16/2013; Tanzania; 2-4; Ivory Coast; Benjamin Mkapa National Stadium; Mehdi Abid Charef; 60000
+
+9/7/2013; Gambia; 2-0; Tanzania; Independence Stadium (Bakau); Hudu Munyemana; 10000
+9/7/2013; Ivory Coast; 1-1; Morocco; Stade Felix Houphouet-Boigny; Bernard Camille; 20000
+
 Group: D
+
+6/1/2012; Ghana; 7-0; Lesotho; Baba Yara Stadium; Badara Diatta; 38000
+
+6/2/2012; Sudan; 0-3; Zambia; Al-Hilal Stadium (Omdurman); Aboubacar Mario Bangoura; 18000
+Awarded
+
+6/9/2012; Zambia; 1-0; Ghana; Levy Mwanawasa Stadium; Med Said Kordi; 40000
+
+6/10/2012; Lesotho; 0-0; Sudan; Setsoto Stadium; Rainhold Shikongo; 4000
+
+3/24/2013; Lesotho; 1-1; Zambia; Setsoto Stadium; Malang Dieghiou; 15000
+
+3/24/2013; Ghana; 4-0; Sudan; Baba Yara Stadium; Anthony Ramsy Raphael; 38000
+
+6/7/2013; Sudan; 1-3; Ghana; Al-Merrikh Stadium; Ousmane Fall; 3211
+
+6/8/2013; Zambia; 4-0; Lesotho; Levy Mwanawasa Stadium; Ali Lemghaifry; 36000
+
+6/15/2013; Zambia; 1-1; Sudan; Levy Mwanawasa Stadium; Eric Otogo-Castane; 37200
+
+6/16/2013; Lesotho; 0-2; Ghana; Setsoto Stadium; Thierry Nkurunziza; 1961
+
+9/6/2013; Ghana; 2-1; Zambia; Baba Yara Stadium; Djamel Haimoudi; 40000
+
+9/8/2013; Sudan; 1-3; Lesotho; Al-Hilal Stadium (Omdurman); Sylvester Kirwa; 5000
 
 Group: E
 
+6/2/2013; Burkina Faso; 0-3; Congo; Stade du 4-Aout (Ouagadougou); Bouchaib El Ahrach; 23904
+Awarded
+
+6/3/2012; Niger; 3-0; Congo; Stade General Seyni Kountche; Djamel Haimoudi; 20000
+Awarded
+
+6/9/2012; Congo; 1-0; Niger; Stade Municipal (Pointe-Noire); Hudu Munyemana; 10500
+
+6/9/2012; Gabon; 1-0; Burkina Faso; Stde d'Angondje; Ousmane Fall; 23000
+
+3/23/2013; Congo; 1-0; Gabon; Stade Municipal (Pointe-Noire); Bakary Gassama; 13000
+
+3/23/2013; Burkina Faso; 4-0; Niger; Stade du 4-Aout (Ouagadougou); Noumandiez Doue; 35000
+
+6/8/2013; Gabon; 0-0; Congo; Stade de Franceville; Gehad Grisha; 27500
+
+6/9/2013; Niger; 0-1; Burkina Faso; Stade General Seyni Kountche; Tessema Bamlak; 18000
+
+6/15/2013; Congo; 0-1; Burkina Faso; Stade Municipal (Pointe-Noire); Rainhold Shikongo; 13497
+
+6/15/2013; Gabon; 4-1; Niger; Stade de Franceville; Samuel Chirindza; 12000
+
+9/7/2013; Burkina Faso; 1-0; Gabon; Stade du 4-Aout; Rajindraparsad Seechurn; 30000
+
+9/7/2013; Niger; 2-2; Congo; Stade General Seyni Kountche; Koman Coulibaly; 20000
+
 Group: F
+
+6/2/2012; Kenya; 0-0; Malawi; Moi International Sports Centre; Eric Otogo-Castane; 14000
+
+6/3/2012; Nigeria; 1-0; Namibia; UJ Esuene Stadium; Khalid Abdel Rahman; 10000
+
+6/9/2012; Malawi; 1-1; Nigeria; Kamuzu Stadium; Rajindraparsad Seechurn; 25000
+
+6/9/2012; Namibia; 1-0; Kenya; Sam Nujoma Stadium; Joshua Bondo; 12000
+
+3/23/2013; Nigeria; 1-1; Kenya; UJ Esuene Stadium; Joshua Bondo; 7475
+
+3/23/2013; Namibia; 0-1; Malawi; Sam Nujoma Stadium; Med Said Kordi; 5000
+
+6/5/2013; Malawi; 0-0; Namibia; Kamuzu Stadium; Koman Coulibaly; 17000
+
+6/5/2013; Kenya; 0-1; Nigeria; Moi International Sports Centre; Noumandiez Doue; 30000
+
+6/12/2013; Malawi; 2-2; Kenya; Kamuzu Stadium; Ali Mohamed Adelaid; 13000
+
+6/12/2013; Namibia; 1-1; Nigeria; Sam Nujoma Stadium; Mensur Maeruf; 9000
+
+9/7/2013; Nigeria; 2-0; Malawi; UJ Esuene Stadium; Hamada Nampiandraza; 8000
+
+9/8/2013; Kenya; 1-0; Namibia; Moi International Sports Centre; Gehad Grisha; 20000
 
 Group: G
 
@@ -69,17 +216,111 @@ Group: G
 
 6/9/2013; Guinea; 6-1; Mozambique; Stade du 28 Septembre; Kouame N'Dri
 
-6/16/2013; Mozambique; v; Egypt
+6/16/2013; Mozambique; 0-1; Egypt; Estadio de Machava; Janny Sikazwe; 25000
 
-6/16/2013; Guinea; v; Zimbabwe
+6/16/2013; Guinea; 1-0; Zimbabwe; Stade du 28 Septembre; Hamada Nampiandraza; 14000
 
-9/6/2013; Egypt; v; Guinea
+9/6/2013; Zimbabwe; 1-1; Mozambique; Rufaro Stadium; Mahamadou Keita; 7000
 
-9/6/2013; Zimbabwe; v; Mozambique
+9/6/2013; Egypt; 4-2; Guinea; El Gouna Stadium; Tessem Bamlak; 0
 
 
 Group: H
 
+6/2/2012; Algeria; 4-0; Rwanda; Stade Mustapha Tchaker; Bakary Gassama; 30000
+
+6/3/2012; Benin; 1-0; Mali; Stade de l'Amitie; Janny Sikazwe; 20000
+
+6/10/2012; Rwanda; 1-1; Benin; Stade Amahoro; Tessema Bamlak; 15000
+
+6/10/2012; Mali; 2-1; Algeria; Stade du 4-Aout; Daniel Bennett; 5847
+
+3/24/2013; Rwanda; 1-2; Mali; Stade Amahoro; Hamada Nampiandraz; 10000
+
+3/26/2013; Algeria; 3-1; Benin; Stade Mustapha Tchaker; Rajindraparsad Seechurn; 32000
+
+6/9/2013; Benin; 1-3; Algeria; Stade Charles de Gaulle; Neant Alioum; 8000
+
+6/9/2013; Mali; 1-1; Rwanda; Stade 26 mars; Med Said Kordi; 30000
+
+6/16/2013; Rwanda; 0-1; Algeria; Stade Amahoro; Yakhouba Keita; 15000
+
+6/16/2013; Mali; 2-2; Benin; Stade 26 mars; Bouchaib El Ahrach; 30000
+
+9/8/2013; Benin; 2-0; Rwanda ;Stade Charles de Gaulle; Aboubacar Mario Bangoura; 16872
+
+9/10/2013; Algeria; 1-0; Mali; Stade Mustapha Tchaker; Eric Otogo-Castane; 23500
+
 Group: I
 
+6/2/2012; Cameroon; 1-0; DR Congo; Stade Ahmadou Ahidjo; Daniel Bennett; 10000
+
+6/3/2012; Togo; 1-1; Libya; Stade de Kegue; Koman Coulibaly; 15000
+
+6/10/2012; DR Congo; 2-0; Togo; Stade des Martyrs; Mohamed Farouk Mahmoud; 50000
+
+6/10/2012; Libya; 2-1; Cameroon; Stade Taieb Mhiri; Mensur Maeruf; 1000
+
+3/23/2013; Cameroon; 2-1; Togo; Stade Ahmadou Ahidjo; Djamel Haimoudi; 30000
+
+3/24/2013; Dr Congo; 0-0; Libya; Stade des Martyrs; William Agovi; 53500
+
+6/7/2013; Libya; 0-0; DR Congo; ; June 11 Stadium; Joshua Bondo; 35000
+6/9/2013; Togo; 0-3; Cameroon; Stade de Kegue; Rajindraparsad Seechurn; 20000
+Awarded
+
+6/14/2013; Libya; 2-0; Togo; June 11 Stadium; Mohamed Benouza; 40000
+6/16/2013; DR Congo; 0-0; Cameroon; Stade des Martyrs; Badara Diatta; 80000
+
+9/8/2013; Cameroon; 1-0; Libya; Stade Ahmadou Ahidjo; Noumandiez Doue; 35000
+9/8/2013; Togo; 2-1; DR Congo; Stade de Kegue; Bouchaib El Ahrach; 16000
+
+
 Group: J
+
+6/2/2012; Senegal; 3-1; Liberia; Stade Leopold Sedar Senghor; Noumandiez Doue; 15000
+
+6/3/2012; Angola; 1-1; Uganda; Estadio 11 de Novembro; Gehad Grisha; 48000
+
+6/9/2012; Uganda; 1-1; Senegal; Nelson Mandela National Stadium; Mohamed Benouza; 30000
+
+6/10/2012; Liberia; 0-0; Angola; Antoinette Tubman Stadium; Ali Lemghaifry; 15000
+
+3/23/2013; Senegal; 1-1; Angola; Stade du 28 Septembre; Neant Alioum; 13500
+
+3/24/2013; Liberia; 2-0; Uganda; Samuel Kanyon Doe Sports Complex; Mohamed Farouk Mahmoud; 25000
+
+6/8/2013; Uganda; 1-0; Liberia; Nelson Mandela National Stadium; Adam Cordier; 8400
+
+6/8/2013; Angola; 1-1; Senegal; Estadio 11 de Novembro; Bernard Camille; 40000
+
+6/15/2013; Uganda; 2-1; Angola; Nelson Mandela National Stadium; Redouane Jiyed; 40000
+
+6/16/2013; Liberia; 0-2; Senegal; Samuel Kanyon Doe Sports Complex; Davies Omweno; 35000
+
+9/7/2013; Angola; 3-0; Liberia; Tundavala National Stadium; Slim Jedidi; 3000
+Awarded
+
+9/7/2013; Senegal; 1-0; Uganda; Stade de Marrakech; Daniel Bennett; 2000
+
+Round: 3
+
+10/12/2013; Ivory Coast; 3-1; Senegal; Stade Felix Houphouet-Boginy; Rajindraparsad Seechurn; 30000
+
+11/16/2013; Senegal; 1-1; Ivory Coast; Stade Mohamed V; Djamel Haimoudi; 15000
+
+10/13/2013; Ethiopia; 1-2; Nigeria; Addis Ababa Stadium; Neant Alioum; 22000
+
+11/16/2013; Nigeria; 2-0; Ethiopia; U.J. Esuene Stadium; Bakary Gassama; 8000
+
+10/13/2013; Tunisia; 0-0; Cameroon; Stade Olympique de Rades; Koman Coulibaly; 30900
+
+11/17/2013; Cameroon; 4-1; Tunisia; Stade Ahmadou Ahidjo; Rajindraparsad Seechurn; 35570
+
+10/15/2013; Ghana; 6-1; Egypt; Baba Yara Stadium; Bouchaib El Ahrach; 38000
+
+11/19/2013; Egypt; 2-1; Ghana; 30 June Stadium; Noumandiez Doue; 25000
+
+10/12/2013; Burkina Faso; 3-2; Algeria; Stade du 4-Aout (Ouagadougou); Janny Sikazwe; 31000
+
+11/19/2013; Algeria; 1-0; Burkina Faso; Stade Mustapha Tchaker; Badara Diatta; 35000
