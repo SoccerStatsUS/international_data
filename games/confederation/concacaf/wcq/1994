@@ -3,11 +3,8 @@ BlockSource: http://en.wikipedia.org/wiki/1994_FIFA_World_Cup_qualification_(CON
 Season: 1994
 Competition: FIFA World Cup qualification (CONCACAF)
 
-
-Zone: Caribbean Zone
-
-
-Round: First Preliminary Round
+Zone: Caribbean
+Round: First Preliminary
 
 3/21/1992; Dominican Republic; 1-2; Puerto Rico; Estadio Olimpico Felix Sanchez; Lancelotte Livingston; 300
 3/29/1992; Puerto Rico; 1-1; Dominican Republic; Hato Rey, Puerto Rico; Errol Forbes; 300
@@ -35,8 +32,7 @@ Round: Second Preliminary Round
 ; Saint Vincent and the Grenadines; W-L; Cuba
 Forfeit
 
-
-Round: First Round
+Round: 1
 
 6/14/1992; Antigua and Barbuda; 0-3; Bermuda; Antigua Recreation Ground; Noel Smith; 5000
 7/4/1992; Bermuda; 2-1; Antigua and Barbuda; Bermuda National Stadium; Jose Antonio Garzay Ochoa
@@ -48,9 +44,8 @@ Round: First Round
 8/30/1992; Saint Vincent and the Grenadines; 2-1; Suriname; Arnos Vale Stadium; Alwyn Black; 5000
 
 
-Zone: Central American Zone
-
-Round: First Round
+Zone: Central American
+Round: 1
 
 7/19/1992; Guatemala; 0-0; Honduras; Estadio Mateo Flores; Majid Jay; 39792
 7/26/1992; Honduras; 2-0; Guatemala; Estadio Tiburcio Carias Andino; Jose Ramirez; 7500
@@ -61,11 +56,8 @@ Round: First Round
 8/16/1992; Panama; 1-0; Costa Rica; Estadio Rommel Fernandez; Hoyos Perez
 8/23/1992; Costa Rica; 5-1; Panama; Antiguo Estadio Nacional de Costa Rica; Jack D'Aquilla
 
-
-
-Round: Second Round
-
-Group: Group A
+Round: 2
+Group: A
 
 11/8/1992; Costa Rica; 2-3; Honduras; Estadio Saprissa; Rafael Rodriguez Medina
 11/8/1992; Saint Vincent and the Grenadines; 0-4; Mexico; Arnos Vale Stadium; Noel Smith;
@@ -87,7 +79,7 @@ Group: Group A
 12/13/1992; Costa Rica; 5-0; Saint Vincent and the Grenadines; Estadio Saprissa; Brian Hall
 12/13/1992; Honduras; 1-1; Mexico; Estadio Tiburcio Carias Andino; Jack D'Aquilla
 
-Group: Group B
+Group: B
 
 10/18/1992; Jamaica; 1-1; Canada; Independence Park; Ramesh Ramdhan; 17000
 10/18/1992; Bermuda; 1-0; El Salvador; Bermuda National Stadium; Miguel Salas Castillo; 4000
@@ -108,7 +100,7 @@ Group: Group B
 12/6/1992; El Salvador; 2-1; Jamaica; Estadio Cuscatlan; Freddy Rolando Burgos; 36625
 
 
-Round: Final Round
+Round: Final
 
 4/4/1993; El Salvador; 2-1; Mexico; Estadio Cuscatlan; Armando Perez Hoyos; 40000
 4/4/1993; Honduras; 2-2; Canada; Estadio Tiburcio Carias Andino; Noel Smith; 3000
