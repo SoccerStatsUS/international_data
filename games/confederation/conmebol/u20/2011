@@ -1,8 +1,9 @@
-http://en.wikipedia.org/wiki/2011_South_American_Youth_Championship
+BlockSource: http://en.wikipedia.org/wiki/2011_South_American_Youth_Championship
 Season: 2011
 Competition: South American U-20 Championship
 
-Group: Group A
+Stage: group
+Group: A
 
 1/16/2011; Argentina; 2-1; Uruguay; Estadio Monumental Virgen de Chapi; Wilmar Rodan
 1/16/2011; Peru; 0-2; Chile; Estadio Monumental Virgen de Chapi; Antonio Arias
@@ -19,7 +20,7 @@ Group: Group A
 1/27/2011; Chile; 3-1; Venezuela; Estadio Monumental Virgen de Chapi; Wilson Luiz Seneme
 1/27/2011; Peru; 2-0; Uruguay; Estadio Monumental Virgen de Chapi; Omar Ponce
 
-Group: Group B
+Group: B
 
 1/17/2011; Colombia; 1-1; Ecuador; Estadio Jorge Basadre; Victor Hugo Carrillo
 1/17/2011; Brazil; 4-2; Paraguay; Estadio Jorge Basadre; Diego Abal
@@ -36,8 +37,7 @@ Group: Group B
 1/28/2011; Ecuador; 3-1; Bolivia; Estadio Jorge Basadre; Marlon Escalante
 1/28/2011; Colombia; 3-3; Paraguay; Estadio Jorge Basadre; Jorge Osorio
 
-
-Round: Final Round
+Stage: final
 
 1/31/2011; Uruguay; 1-0; Colombia; Estadio Monumental Virgen de Chapi; Diego Abal
 1/31/2011; Argentina; 0-1; Ecuador; Estadio Monumental Virgen de Chapi; Wilson Luiz Seneme
