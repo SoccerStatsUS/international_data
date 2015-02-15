@@ -2,40 +2,38 @@ BlockSource: http://en.wikipedia.org/wiki/2011_CONCACAF_U-17_Championship
 Season: 2011
 Competition: CONCACAF U-17 Championship
 
-Round: Group Stage
-
-Group: Group A
+Stage: group
+Group: A
 
 2/14/2011; Haiti; 1-3; Costa Rica; Catherine Hall Stadium; Juan Carlos Guerra; 200
 2/16/2011; El Salvador; 3-0; Haiti; Jarrett Park
 2/18/2011; Costa Rica; 3-2; El Salvador; Jarrett Park; Kenville Holder
 
-Group: Group B
+Group: B
 
 2/14/2011; Cuba; 1-3; United States; Catherine Hall Stadium; Enrico Wijngaarde; 548 
 2/16/2011; Panama; 0-0; Cuba; Jarrett Park; Paul Ward; 261
 2/18/2011; United States; 1-0; Panama; Jarrett Park; Enrico Wijngaarde; 290
 
-Group: Group C
+Group: C
 
 2/15/2011; Jamaica; 2-2; Trinidad and Tobago; Catherine Hall Stadium; Ricardo Arellano Nieves; 4400
 2/17/2011; Guatemala; 0-1; Trinidad and Tobago; Jarrett Park; Trevor Taylor; 600
 2/19/2011; Jamaica; 1-0; Guatemala; Catherine Hall Stadium; Elmer Bonilla; 6563
 
-Group: Group D
+Group: D
 
 2/15/2011; Barbados; 1-2; Honduras; Catherine Hall Stadium; Hugo Alvarado Cruz; 4400
 2/17/2011; Canada; 8-0; Barbados; Jarrett Park; Jafeth Perea; 400
 2/19/2011; Honduras; 0-0; Canada; Catherine Hall Stadium; Valdin Legister; 1500
 
-
+Stage: knockout
 Round: Quarterfinals
 
 2/22/2011; Costa Rica; 0-1; Panama; Catherine Hall Stadium; Ricardo Arellano Nieves; 228
 2/22/2011; United States; 3-2 (aet); El Salvador; Catherine Hall Stadium; Valdin Leigster
 2/23/2011; Canada; 2-0; Trinidad and Tobago; Catherine Hall Stadium; Elmer Bonilla; 300
 2/23/2011; Jamaica; 2-1; Honduras; Catherine Hall Stadium; Enrico Wijngaarde; 5600
-
 
 Round: Semifinals
 
