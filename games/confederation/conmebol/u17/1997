@@ -2,11 +2,8 @@ Season: 1997
 Competition: South American Under-17 Football Championship
 BlockSource: http://en.wikipedia.org/wiki/1997_South_American_Under-17_Football_Championship
 
-
-
-Round: First round
-
-Group: Group A
+Stage: first
+Group: A
 
 2/28/1997; Venezuela; 0-2; Ecuador; Encarnacion, Paraguay
 2/28/1997; Paraguay; 1-0; Peru; Encarnacion, Paraguay
@@ -23,7 +20,7 @@ Group: Group A
 3/8/1997; Ecuador; 2-2; Peru; Encarnacion, Paraguay
 3/8/1997; Paraguay; 2-0; Argentina; Encarnacion, Paraguay
 
-Group: Group B
+Group: B
 
 3/1/1997; Bolivia; 0-2; Colombia; Pedro Juan Caballero, Paraguay
 3/1/1997; Brazil; 1-1; Chile; Pedro Juan Caballero, Paraguay
@@ -40,8 +37,7 @@ Group: Group B
 3/9/1997; Brazil; 2-1; Uruguay; Pedro Juan Caballero, Paraguay
 3/9/1997; Chile; 1-0; Colombia; Pedro Juan Caballero, Paraguay
 
-
-Round: Final round
+Stage: final
 
 3/11/1997; Argentina; 3-0; Chile; Asuncion, Paraguay
 3/11/1997; Brazil; 5-0; Paraguay; Asuncion, Paraguay

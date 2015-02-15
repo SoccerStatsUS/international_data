@@ -1,10 +1,9 @@
 BlockSource: http://en.wikipedia.org/wiki/2011_South_American_U-17_Football_Championship
-
 Competition: South American U-17 Football Championship
 Season: 2011
 
-
-Group: Group A
+Stage: first
+Group: A
 
 3/12/2011; Ecuador; 2-1; Bolivia; Estadio La Cocha; Ricardo Marques
 3/12/2011; Argentina; 4-2; Peru; Estadio La Cocha; Patricio Polic
@@ -21,8 +20,7 @@ Group: Group A
 3/24/2011; Uruguay; 0-3; Peru; Estadio La Cocha; Mayker Gomez
 3/24/2011; Argentina; 2-0; Ecuador; Estadio La Cocha; Julio Quintana
 
-
-Group: Group B
+Group: B
 
 3/13/2011; Brazil; 4-3; Venezuela; Estadio Olimpico de Ibarra; Diego Lara
 3/13/2011; Colombia; 2-2; Chile; Estadio Olimpico de Ibarra; Henry Gambetta
@@ -39,8 +37,7 @@ Group: Group B
 3/25/2011; Paraguay; 3-1; Venezuela; Estadio Olimpico de Ibarra; Jose Jordan
 3/25/2011; Brazil; 5-1; Colombia; Estadio Olimpico de Ibarra; Hector Martinez
 
-
-Round: Final Stage
+Stage: final
 
 3/28/2011; Argentina; 1-0; Paraguay; Estadio La Cocha; Hector Parra
 3/28/2011; Ecuador; 0-0; Colombia; Estadio La Cocha; Mayker Gomez

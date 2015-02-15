@@ -2,10 +2,8 @@ BlockSource: http://en.wikipedia.org/wiki/2007_South_American_Under-17_Football_
 Season: 2007
 Competition: South American Under-17 Football Championship
 
-
-Round: First round
-
-Group: Group A
+Stage: first
+Group: A
 
 3/4/2007; Ecuador; 0-1; Bolivia; Riobamba, Ecuador
 3/4/2007; Brazil; 1-2; Peru; Riobamba, Ecuador
@@ -22,7 +20,7 @@ Group: Group A
 3/12/2007; Brazil; 4-5; Ecuador; Latacunga, Ecuador
 3/12/2007; Chile; 0-1; Bolivia; Latacunga, Ecuador
 
-Group: Group B
+Group: B
 
 3/5/2007; Argentina; 4-0; Paraguay; Azogues, Ecuador
 3/5/2007; Uruguay; 4-1; Venezuela; Azogues, Ecuador
@@ -39,8 +37,7 @@ Group: Group B
 3/13/2007; Argentina; 2-1; Uruguay; Cuenca, Ecuador
 3/13/2007; Colombia; 2-2; Venezuela; Cuenca, Ecuador
 
-
-Round: Final round
+Stage: final
 
 3/16/2007; Ecuador; 1-2; Colombia; Ibarra, Ecuador
 3/16/2007; Argentina; 0-2; Brazil; Ibarra, Ecuador
