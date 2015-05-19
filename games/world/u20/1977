@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 1977
 BlockSource: http://en.wikipedia.org/wiki/1977_FIFA_World_Youth_Championship
 
-Round: Group
+Stage: Group
 Group: A
 
 6/27/1977; France; 1-2; Spain; Stade El Menzah; Orhan Cebe
@@ -47,8 +47,9 @@ Group: D
 7/4/1977; Paraguay; 4-0; Iraq; Sfax Stadium; Angel Franco Martinez
 7/4/1977; Austria; 0-0; Soviet Union; Sfax Stadium; Mohamed Larache
 
+Stage: knockout
 Round: Semifinals
-Group: 
+
 
 7/6/1977; Mexico; 1-1 (aet); Brazil; Stade El Menzah; Angel Franco Martinez
 7/7/1977; Uruguay; 0-0 (aet); Soviet Union; Stade El Menzah; Gianfranco Menegali

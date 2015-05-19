@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 1983
 BlockSource: http://en.wikipedia.org/wiki/1983_FIFA_World_Youth_Championship
 
-Round: Group
+Stage: Group
 Group: A
 
 6/2/1983; Mexico; 1-1; Australia; Estadio Azteca; Gerard Biguet; 108900
@@ -39,7 +39,7 @@ Group: D
 6/9/1983; Soviet Union; 1-2; Brazil; Estadio Jalisco; Keith Stuart Hackett; 31380
 6/9/1983; Nigeria; 0-0; Netherlands; Estadio Tecnologico; Andrzej Libich; 41283
 
-Group: 
+Stage: knockout
 Round: Quarterfinals
 
 6/11/1983; Scotland; 0-1; Poland; Estadio Azteca; Gerard Biguet; 11986

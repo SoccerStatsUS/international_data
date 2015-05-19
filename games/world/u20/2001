@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 2001
 BlockSource: http://en.wikipedia.org/wiki/2001_FIFA_World_Youth_Championship
 
-Round: Group
+Stage: Group
 Group: A
 
 6/17/2001; Argentina; 2-0; Finland; Estadio Jose Amalfitani; Sun Baojie; 24000
@@ -57,8 +57,9 @@ Group: F
 6/24/2001; Ghana; 0-0; France; Estadio Jose Maria Minella; Claudio Martin; 13000
 6/24/2001; Paraguay; 2-0; Iran; Estadio Jose Maria Minella; Manuel Mejuto Gonzalez; 6000
 
+Stage: knockout
 Round: Round of 16
-Group: 
+
 
 6/27/2001; United States; 0-2; Egypt; Estadio Jose Amalfitani; Sorin Corpodean; 10000
 6/27/2001; Argentina; 2-1; China; Estadio Jose Amalfitani; Thomas McCurry; 32000

@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 1981
 BlockSource: http://en.wikipedia.org/wiki/1981_FIFA_World_Youth_Championship
 
-Round: Group
+Stage: Group
 Group: A
 
 10/3/1981; Poland; 0-1; Qatar; Lang Park, Brisbane; Tony Boskovic; 17200
@@ -47,8 +47,9 @@ Group: D
 10/8/1981; Cameroon; 0-1; Argentina; Sports Ground, Sydney; Mubarak Waleed Saeed; 28932
 10/8/1981; England; 1-1; Australia; Sports Ground, Sydney; Ioan Igna; 28932
 
+
+Stage: knockout
 Round: Quarterfinals
-Group: 
 
 10/11/1981; Uruguay; 1-2; Romania; Olympic Park, Melbourne; Gianfranco Menegali; 14800
 10/11/1981; Brazil; 2-3; Qatar; Newcastle Stadium; Antonio Marquez Ramirez; 12993

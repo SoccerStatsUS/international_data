@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 1979
 BlockSource: http://en.wikipedia.org/wiki/1979_FIFA_World_Youth_Championship
 
-Round: Group
+Stage: Group
 Group: A
 
 8/25/1979; Mexico; 1-1; Algeria; National Olympic Stadium, Tokyo; Anatoly Milchenko; 30000
@@ -47,7 +47,7 @@ Group: D
 8/30/1979; Soviet Union; 0-1; Uruguay; Yokohama Stadium; Cesar Correia Diaz da Luz; 5000
 8/30/1979; Hungary; 2-0; Guinea; Yokohama Stadium; Thomson Chan Tam Sung; 5000
 
-Group: 
+Stage: knockout
 Round: Quarterfinals
 
 9/2/1979; Spain; 0-0 (aet); Poland; Omiya Stadium; Jose Roberto Wright; 10000

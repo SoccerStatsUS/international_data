@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 2007
 BlockSource: http://en.wikipedia.org/wiki/2007_FIFA_U-20_World_Cup
 
-Round: Group
+Stage: Group
 Group: A
 
 7/1/2007; Canada; 0-3; Chile; National Soccer Stadium, Toronto; Alberto Undiano Mallenco; 20195
@@ -72,8 +72,8 @@ Group: F
 7/7/2007; Japan; 0-0; Nigeria; Royal Athletic Park, Victoria; German Arredondo; 11500
 7/7/2007; Scotland; 1-2; Costa Rica; Royal Athletic Park, Victoria; Subkhiddin Mohd Salleh; 10000
 
-Group: 
-Round: Round of 16
+Stage: knockout
+Round: of 16
 
 7/11/2007; Austria; 2-1; Gambia; Commonwealth Stadium, Edmonton; Mohamed Benouza; 18721
 

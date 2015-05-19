@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 2013
 BlockSource: http://en.wikipedia.org/wiki/2013_FIFA_U-20_World_Cup
 
-Round: Group
+Stage: Group
 Group: A
 
 6/21/2013; France; 3-1; Ghana; Ali Sami Yen Arena; Wilmar Roldan; 4133
@@ -75,7 +75,7 @@ Group: F
 6/29/2013; Uzbekistan; 0-4; Uruguay; Akdeniz University Stadium
 6/29/2013; Croatia; 2-1; New Zealand; Ataturk Stadium, Bursa
 
-
+Stage: knockout
 Round: Round of 16
 Group: 
 

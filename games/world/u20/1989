@@ -2,7 +2,7 @@ BlockSource: http://en.wikipedia.org/wiki/1989_FIFA_World_Youth_Championship
 Competition: FIFA World Youth Championship
 Season: 1989
 
-Round: Group
+Stage: Group
 Group: A
 
 2/16/1989; Saudi Arabia; 1-2; Nigeria; King Fahd International Stadium; Marcel van Langenhove; 70000
@@ -39,7 +39,7 @@ Group: D
 2/22/1989; Norway; 4-2; Spain; King Fahd Stadium, Taif; Neji Jouini; 17000
 2/22/1989; Iraq; 1-0; Argentina; King Fahd Stadium, Taif; Jozef Marko; 17000
 
-Group: 
+Stage: knockout
 Round: Quarterfinals
 
 2/25/1989; Portugal; 1-0; Colombia; King Fahd International Stadium; Neji Jouini; 5000

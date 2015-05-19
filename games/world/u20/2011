@@ -2,7 +2,7 @@ BlockSource: http://en.wikipedia.org/wiki/2011_FIFA_U-20_World_Cup
 Competition: FIFA U-20 World Cup
 Season: 2011
 
-Round: Group
+Stage: Group
 Group: A
 
 7/30/2011; Mali; 0-2; South Korea; Estadio El Campin; Mark Clattenburg; 36111
@@ -57,7 +57,8 @@ Group: F
 8/4/2011; Mexico; 0-0; England; Estadio Jaime Moron Leon; Djamel Haimoudi; 16042
 8/4/2011; Argentina; 3-0; North Korea; Estadio Atanasio Girardot; Noumandiez Doue; 14647
 
-Round: Round of 16
+Stage; knockout
+Round: of 16
 
 8/9/2011; Portugal; 1-0; Guatemala; Estadio Pascual Guerrero; Djamel Haimoudi; 34264
 

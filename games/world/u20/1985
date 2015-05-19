@@ -2,7 +2,7 @@ BlockSource: http://en.wikipedia.org/wiki/1985_FIFA_World_Youth_Championship
 Competition: FIFA World Youth Championship
 Season: 1985
 
-Round: Group
+Stage: Group
 Group: A
 
 8/24/1985; Hungary; 2-2; Colombia; Hrazdan Stadium; George Sandoz; 10000
@@ -39,7 +39,7 @@ Group: D
 8/29/1985; England; 0-1; Mexico; Tofiq Bahramov Stadium; Hernan Silva; 12000
 8/29/1985; Paraguay; 1-2; China; Mehdi Huseynade Stadium; David F.T. Syrne; 15500
 
-Group: 
+Stage: knockout
 Round: Quarterfinals
 
 9/1/1985; Bulgaria; 1-2; Spain; Hrazdan Stadium; Joseph B. Worrall; 20500

@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 1987
 BlockSource: http://en.wikipedia.org/wiki/1987_FIFA_World_Youth_Championship
 
-Round: Group
+Stage: Group
 Group: A
 
 10/10/1987; Chile; 2-4; Yugoslavia; Estadio Nacional, Santiago; Juan Carlos Loustau; 67000
@@ -39,8 +39,8 @@ Group: D
 10/17/1987; United States; 1-2; West Germany; Estadio Regional, Antofagasta; Toshikazu Sano; 3500
 10/18/1987; Bulgaria; 2-0; Saudi Arabia; Estadio Regional, Antofagasta; Yi-Fa Chow; 8000
 
+Stage: knockout
 Round: Quarterfinals
-Group: 
 
 10/21/1987; Italy; 0-1; Chile; Estadio Municipal, Concepcion; Rune Larsson; 35000
 10/21/1987; East Germany; 2-0; Bulgaria; Estadio Playa Ancha; Allan Gunn; 3000

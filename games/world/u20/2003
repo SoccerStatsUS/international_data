@@ -1,7 +1,7 @@
 Competition: FIFA World Youth Championship        
 Season: 2003
 
-Round: Group
+Stage: Group
 Group: A
 
 11/27/2003; United Arab Emirates; 1-4; Slovakia; Zayed Sports City Stadium; Horacio Elizondo; 46000
@@ -56,8 +56,8 @@ Group: F
 12/5/2003; Paraguay; 2-0; Germany; Al-Nahyan Stadium; Eduardo Iturralde Gonzalez; 6000
 12/5/2003; United States; 2-0; South Korea; Al-Nahyan Stadium; Matthew Breeze; 8000
 
-Group: 
-Round: Round of 16
+Stage: knockout
+Round: of 16
 
 12/8/2003; Japan; 2-1 (aet); South Korea; Al-Nahyan Stadium; Horacio Elizondo; 5500
 12/8/2003; Burkina Faso; 0-1; Canada; Al-Nahyan Stadium; Kwon Jung-Chul; 5000

@@ -1,10 +1,8 @@
-
 Season: 2009
 BlockSource: http://en.wikipedia.org/wiki/2009_FIFA_U-20_World_Cup#Group_A
-
 Competition: FIFA World Youth Championship        
 
-Round: Group
+Stage: Group
 Group: A
 
 9/24/2009; Egypt; 4-1; Trinidad and Tobago; Borg El Arab Stadium; Frank De Bleeckere; 74000
@@ -59,7 +57,8 @@ Group: F
 10/3/2009; Hungary; 2-0; United Arab Emirates; Alexandria Stadium, Alexandria; Peter O'Leary; 9000
 10/3/2009; South Africa; 2-0; Honduras; Alexandria Stadium, Alexandria; Jorge Larrionda; 16200
 
-Round: Round of 16
+Stage: knockout
+Round: of 16
 Group: 
 
 10/5/2009; Spain; 1-3; Italy; Al-Salam Stadium, Cairo; Hector Baldassi; 6150

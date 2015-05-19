@@ -2,7 +2,7 @@ Competition: FIFA U-20 World Cup
 Season: 1993
 BlockSource: http://en.wikipedia.org/wiki/1993_FIFA_World_Youth_Championship
 
-Round: Group
+Stage: Group
 Group: A
 
 3/5/1993; Australia; 2-1; Colombia; Sydney Football Stadium; Kim Milton Nielsen; 31883
@@ -39,7 +39,7 @@ Group: D
 3/11/1993; Norway; 0-2; Brazil; Football Park, Adelaide; Serguei Khussainov; 7000
 3/11/1993; Mexico; 2-1; Saudi Arabia; Football Park, Adelaide; Richard Lorenc; 7000
 
-Group: 
+Stage: knockout
 Round: Quarterfinals
 
 3/13/1993; Uruguay; 1-2 (aet); Australia; Queensland Sport and Athletics Centre; Remi Harrel; 14000
