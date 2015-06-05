@@ -5,79 +5,126 @@ BlockSource: http://en.wikipedia.org/wiki/2015_FIFA_U-20_World_Cup
 Stage: group
 Group: A
 
-5/30/2015; New Zealand; v; Ukraine; North Harbour Stadium
-5/30/2015; United States; v; Myanmar; Northland Events Centre
+5/30/2015; New Zealand; 0-0; Ukraine; North Harbour Stadium; Mauro Vigliano; 25000
 
-6/2/2015; Myanmar; v; Ukraine; Northland Events Centre
-6/2/2015; New Zealand; v; United States; North Harbour Stadium
+5/30/2015; United States; 2-1; Myanmar; Northland Events Centre; Bernard Camille; 5816
+Tall 17, Hyndman 56; Oo 9
 
-6/5/2015; Myanmar; v; New Zealand; Wellington Regional Stadium
-6/5/2015; Ukraine; v; United States; North Harbour Stadium
+6/2/2015; Myanmar; 0-6; Ukraine; Northland Events Centre; Ricardo Marques; 4985
+; Yaremchuk 51, Luchkevych 54, Kovalenko 57, Sobol 68, Besyedin 71, Kovalenko 77
+
+6/2/2015; New Zealand; 0-4; United States; North Harbour Stadium; Antonio Mateu Lahoz; 15678
+; Jamieson 6, Hyndman 33, Arriola 58, Rubin 83
+
+6/5/2015; Myanmar; 1-5; New Zealand; Wellington Regional Stadium; Jhon Pitti; 15527
+Aung Thu 28; Billingsley 40, Patterson 47, Stevens 78, Brotherton 81, Lewis 89
+
+6/5/2015; Ukraine; 3-0; United States; North Harbour Stadium; Eric Otogo-Castane; 7694
+Kovalenko 56, Kovalenko 74, Kovalenko 79
 
 Group: B
 
-5/30/2015; Argentina; v; Panama; Wellington Regional Stadium
-5/30/2015; Ghana; v; Austria; Wellington Regional Stadium
+5/30/2015; Argentina; 2-2; Panama; Wellington Regional Stadium; Artur Soares Dias; 9204
+Correa 14, Correa 79; Rodriguez 19, Escobar 84
 
-6/2/2015; Austria; v; Panama; Wellington Regional Stadium
-6/2/2015; Argentina; v; Ghana; Wellington Regional Stadium
+5/30/2015; Ghana; 1-1; Austria; Wellington Regional Stadium; Fahad Al-Mirdasi; 9204
+Y. Yeboah (pk) 90+1; Gschweidl 50
 
-6/5/2015; Austria; v; Argentina; Wellington Regional Stadium
-6/5/2015; Panama; v; Ghana; North Harbour Stadium
+6/2/2015; Austria; v; Panama; Wellington Regional Stadium; Gehad Grisha; 2009
+Hormechea (og) 45+1, Grubeck 51; Escobar 38
+
+6/2/2015; Argentina; 2-3; Ghana; Wellington Regional Stadium; Ivan Bebek; 5542
+Simeone 80, Buendia 90; B. Tetteh 44, Aboagye 59, Y. Yeboah (pk) 69
+
+6/5/2015; Austria; 0-0; Argentina; Wellington Regional Stadium; Ryuji Sato; 13874
+
+6/5/2015; Panama; 0-1; Ghana; North Harbour Stadium; Daniele Orsato; 3637
+; Boateng 82
 
 Group: C
 
-5/31/2015; Qatar; v; Colombia; Waikato Stadium
-5/31/2015; Portugal; v; Senegal; Waikato Stadium
+5/31/2015; Qatar; 0-1; Colombia; Waikato Stadium; Matt Conger; 7461
+; Rodriguez 24
 
-6/3/2015; Qatar; v; Portugal; Waikato Stadium
-6/3/2015; Senegal; v; Colombia; Waikato Stadium
+5/31/2015; Portugal; 3-0; Senegal; Waikato Stadium; Cesar Arturo Ramos; 10362
+Martins 1, Silva 90, Nuno 90+2     
+
+6/3/2015; Qatar; 0-4; Portugal; Waikato Stadium; Daniel Fedorczuk; 1864
+; Silva 34, Ivo 42, Ivo 66, Vigario 74
+
+6/3/2015; Senegal; 1-1; Colombia; Waikato Stadium; Istvan Vad; 3981
+Thiam 23; Zapata (pk) 43
 
 6/6/2015; Senegal; v; Qatar; Waikato Stadium
+
 6/6/2015; Colombia; v; Portugal; Otago Stadium
 
 
 Group: D
 
-5/31/2015; Mexico; v; Mali; Otago Stadium
-5/31/2015; Uruguay; v; Serbia; Otago Stadium
+5/31/2015; Mexico; 0-2; Mali; Otago Stadium; Felix Zwayer; 4299
+; A. Traore 77, Gbakle 79
 
-6/3/2015; Mexico; v; Uruguay; Otago Stadium
-6/3/2015; Serbia; v; Mali; Otago Stadium
+5/31/2015; Uruguay; 1-0; Serbia; Otago Stadium; Ryuji Sato; 6048
+Pereiro 56;
+
+6/3/2015; Mexico; 2-1; Uruguay; Otago Stadium; Ovidiu Hategan; 2038
+Lozano 71, Gutierrez 90+3; Suarez 83
+
+6/3/2015; Serbia; 2-0; Mali; Otago Stadium; Roddy Zambrano; 4012
+S. Milinkovic-Savic 27, Mandic 74;
 
 6/6/2015; Serbia; v; Mexico; Otago Stadium
+
 6/6/2015; Mali; v; Uruguay; Waikato Stadium
 
 
 Group: E
 
-6/1/2015; Nigeria; v; Brazil; Stadium Taranaki
-6/1/2015; North Korea; v; Hungary; Stadium Taranaki
+6/1/2015; Nigeria; 2-4; Brazil; Stadium Taranaki; Daniele Orsato; 5887
+Success 10, Yahaya 28; Gabriel Jesus 4, Judivan 34, Boschilia 59, Judivan 82
 
-6/4/2015; Nigeria; v; North Korea; Stadium Taranaki
-6/4/2015; Hungary; v; Brazil; Stadium Taranaki
+6/1/2015; North Korea; v; Hungary; Stadium Taranaki; Henry Bejarano; 8153
+Choe Ju-Song 32; Mervo 17, Kalmar 33, Mervo 49, Forgacs 60, Mervo 82
+
+6/4/2015; Nigeria; 4-0; North Korea; Stadium Taranaki; Mauro Vigliano; 1114
+Saviour 48, Saviour 51, Sokari 71, Success 80
+
+6/4/2015; Hungary; 1-2; Brazil; Stadium Taranaki; Fahad Al-Mirdasi; 4077
+Mervo 8; Danilo 50, Pereira (pk) 86
 
 6/7/2015; Hungary; v; Nigeria; Stadium Taranaki
+
 6/7/2015; Brazil; v; North Korea; Christchurch Stadium
 
 
 Group: F
 
-6/1/2015; Germany; v; Fiji; Christchurch Stadium
-6/1/2015; Uzbekistan; v; Honduras; Christchurch Stadium
+6/1/2015; Germany; 8-1; Fiji; Christchurch Stadium; Jhon Pitti; 5296
+Stark 18, Stendera (pk) 20, Promel 23, Stark 27, Mukhtar 34, Mukhtar 40, Stefaniak 68, Mukhtar (pk) 89; Verevou 48
 
-6/4/2015; Honduras; v; Fiji; Christchurch Stadium
-6/4/2015; Germany; v; Uzbekistan; Christchurch Stadium
+6/1/2015; Uzbekistan; 3-4; Honduras; Christchurch Stadium; Eric Otogo-Castane; 6679
+Khamdamov 31, Shomurodov 79, Urinboev 90+6; Benavidez 4, Rochez 20, Alvarez 49, Roches 90+2
+
+6/4/2015; Honduras; 0-3; Fiji; Christchurch Stadium; Kim Jong-hyeok; 1220
+; Verevou 14, Waqa 19, Alvarez (og) 45
+
+6/4/2015; Germany; 3-0; Uzbekistan; Christchurch Stadium; Cesar Arturo Ramos; 3393
+Stendera 33, Akpoguma 59, Stendera 85;
 
 6/7/2015; Honduras; v; Germany; Christchurch Stadium
+
 6/7/2015; Fiji; v; Uzbekistan; Northland Events Centre
 
 
 Stage: knockout
 
 Round: of 16
+
 Round: Quarterfinals
+
 Round: Semifinals
+
 Round: Final
 
 
