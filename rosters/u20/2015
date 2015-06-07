@@ -1,0 +1,622 @@
+BlockSource: http://en.wikipedia.org/wiki/2015_FIFA_U-20_World_Cup_squads
+Competition: FIFA U-20 World Cup
+Season: 2015
+
+Key: number; position; name; birthdate; team
+
+
+Team: New Zealand
+
+1; GK; Oliver Sail; 1/13/1996;   Wellington Phoenix
+2; DF; Jesse Edge; 2/26/1995;   Vicenza Calcio
+3; DF; Deklan Wynne; 3/20/1995;   Wanderers SC
+4; DF; Sam Brotherton; 10/2/1996;   Wanderers SC
+5; DF; Adam Mitchell; 6/1/1996;   Wanderers SC
+6; MF; Bill Tuiloma (c); 3/27/1995;   Olympique de Marseille
+7; FW; Joel Stevens; 2/7/1995;   Wellington Phoenix
+8; MF; Moses Dyer; 3/21/1997;   Wanderers SC
+9; MF; Alex Rufer; 6/12/1996;   Wellington Phoenix
+10; MF; Clayton Lewis; 2/12/1997;   Wanderers SC
+11; MF; Matthew Ridenton; 3/11/1996;   Wellington Phoenix
+12; GK; Nikola Tzanev; 12/23/1996;   Brentford
+13; DF; Brock Messenger; 9/8/1995;   Wanderers SC
+14; DF; Cory Brown; 4/3/1996;   Xavier Musketeers
+15; FW; Monty Patterson; 12/9/1996;   Ipswich Town
+16; MF; Te Atawahi Hudson-Wihongi; 3/2/1995;   Wanderers SC
+17; FW; Andrew Blake; 3/14/1996;   Wellington Phoenix
+18; MF; Andre de Jong; 11/2/1996;   Wanderers SC
+19; FW; Stuart Holthusen; 1/1/1996;   Akron Zips
+20; FW; Noah Billingsley; 8/6/1997;   Wanderers SC
+21; GK; Damian Hirst; 6/14/1995;   Wanderers SC
+
+
+
+Team: Ukraine
+
+1; GK; Roman Pidkivka; 5/9/1995;   Karpaty Lviv
+2; DF; Taras Kacharaba; 1/7/1995;   Hoverla Uzhhorod
+3; DF; Artur Kuznetsov; 3/9/1995;   Metalurh Zaporizhya
+4; DF; Mykyta Burda; 3/24/1995;   Dynamo Kyiv
+5; MF; Yuriy Tkachuk; 4/18/1995;   Metalist Kharkiv
+6; MF; Vyacheslav Tankovskyi; 8/16/1995;   Shakhtar Donetsk
+7; MF; Yevhen Chumak; 8/25/1995;   Dynamo Kyiv
+8; DF; Pavlo Polehenko; 1/6/1995;   Dynamo Kyiv
+9; FW; Vladyslav Kabayev; 9/1/1995;   Chornomorets Odesa
+10; FW; Artem Besyedin; 3/31/1996;   Metalist Kharkiv
+11; FW; Roman Yaremchuk; 11/27/1995;   Dynamo Kyiv
+12; GK; Bohdan Sarnavskyi; 1/29/1995;   Shakhtar Donetsk
+13; MF; Artem Habelok; 1/2/1995;   Shakhtar Donetsk
+14; MF; Valeriy Luchkevych; 1/11/1996;   Dnipro Dnipropetrovsk
+15; FW; Mykyta Tatarkov; 1/4/1995;   Metalurh Zaporizhya
+16; GK; Yevhen Hrytsenko; 2/5/1995;   Shakhtar Donetsk
+17; MF; Viktor Kovalenko; 2/14/1996;   Shakhtar Donetsk
+18; DF; Eduard Sobol; 4/20/1995;   Metalurh Donetsk
+19; DF; Oleksiy Kovtun; 2/5/1995;   Metalist Kharkiv
+20; FW; Yevhen Nemtinov; 10/3/1995;   Illichivets Mariupol
+21; MF; Ihor Kharatin; 2/2/1995;   Dynamo Kyiv
+
+
+Team: United States
+
+
+1; GK; Zack Steffen; 4/2/1995;   Freiburg
+2; DF; Shaquell Moore; 11/2/1996;   Huracán Valencia
+3; DF; John Requejo; 5/23/1996;   Tijuana
+4; DF; Cameron Carter-Vickers; 12/31/1997;   Tottenham Hotspur
+5; DF; Matt Miazga; 7/19/1995;   New York Red Bulls
+6; MF; Kellyn Acosta; 7/24/1995;   FC Dallas
+7; MF; Paul Arriola; 2/5/1995;   Tijuana
+8; MF; Emerson Hyndman; 4/9/1996;   Fulham
+9; FW; Rubio Rubin; 3/1/1996;   Utrecht
+10; MF; Joel Soñora; 9/15/1996;   Boca Juniors
+11; FW; Bradford Jamieson IV; 11/18/1996;   Los Angeles Galaxy
+12; GK; Thomas Olsen; 2/14/1995;   San Diego Toreros
+13; FW; Tommy Thompson; 8/15/1995;   San Jose Earthquakes
+14; FW; Maki Tall; 10/30/1995;   Red Star
+15; MF; Marco Delgado; 5/16/1995;   Toronto FC
+16; DF; Conor Donovan; 1/8/1995;   Orlando City SC
+17; DF; Desevio Payne; 11/30/1995;   Groningen
+18; DF; Erik Palmer-Brown; 4/24/1997;   Sporting Kansas City
+19; MF; Gedion Zelalem; 1/26/1997;   Arsenal
+20; FW; Jordan Allen; 4/25/1995;   Real Salt Lake
+21; GK; Jeff Caldwell; 2/20/1996;   Virginia Cavaliers
+
+
+
+Team: Myanmar
+
+1; GK; Myo Min Latt; 2/20/1995;   Kanbawza
+2; DF; Aung Moe Htwe; 2/5/1995;   Hantharwady United
+3; DF; Htike Htike Aung; 2/1/1995;   Ayeyawady United
+4; DF; Naing Lin Tun; 6/16/1995;   Magway
+5; DF; Nanda Kyaw (c); 9/3/1996;   Magway
+6; MF; Kyaw Min Oo; 6/16/1996;   Ayeyawady United
+7; MF; Nyein Chan Aung; 8/18/1996;   Yangon United
+8; FW; Maung Maung Soe; 8/6/1995;   Magway
+9; FW; Aung Thu; 5/22/1996;   Yadanarbon
+10; FW; Than Paing; 12/6/1996;   Yangon United
+11; FW; Maung Maung Lwin; 6/18/1995;   Hantharwady United
+12; DF; Hlaing Myo Aung; 4/23/1996;   Zwekapin United
+13; DF; Yan Lin Aung; 8/17/1996;   Yangon United
+14; DF; Nan Wai Min; 1/1/1995;   Yangon United
+15; MF; Yan Naing Oo; 3/31/1996;   Zeyar Shwe Myay
+16; MF; Myo Ko Tun; 3/12/1995;   Yadanarbon
+17; DF; Thiha Htet Aung; 3/13/1996;   Yangon United
+18; GK; Pyae Sone Chit; 10/28/1995;   Yadanarbon
+19; MF; Swan Htet Aung; 9/18/1995;   Yangon United
+20; DF; Myo Zaw Oo; 12/24/1995;   Hantharwady United
+21; GK; Wai Lin Aung; 5/20/1996;   Yangon United
+
+
+
+Team: Argentina
+
+1; GK; Augusto Batalla; 4/30/1996;   River Plate
+2; DF; Emanuel Mammana; 2/10/1996;   River Plate
+3; DF; Lucas Matías Suárez; 3/17/1995;   Quilmes
+4; MF; Nicolás Tripichio; 1/5/1996;   Vélez Sarsfield
+5; MF; Andrés Cubas; 5/22/1996;   Boca Juniors
+6; DF; Tiago Casasola; 8/11/1995;   Fulham
+7; FW; Cristian Espinoza; 4/3/1995;   Huracán
+8; MF; Leonardo Rolón; 1/19/1995;   Vélez Sarsfield
+9; FW; Giovanni Simeone; 7/5/1995;   River Plate
+10; MF; Tomás Martínez; 3/7/1995;   River Plate
+11; FW; Ángel Correa; 3/9/1995;   Atlético Madrid
+12; GK; José Devecchi; 9/1/1995;   San Lorenzo
+13; GK; Agustín Rossi; 8/21/1995;   Estudiantes de La Plata
+14; FW; Cristian Pavón; 1/21/1996;   Boca Juniors
+15; FW; Maximiliano Rolón; 1/19/1995;   Barcelona B
+16; MF; Daniel Ibáñez; 3/29/1995;   San Lorenzo
+17; MF; Alejandro Romero Gamarra; 1/11/1995;   Huracán
+18; DF; Leandro Vega; 5/27/1996;   River Plate
+19; FW; Emiliano Buendía; 12/25/1996;   Getafe CF
+20; DF; Facundo Monteseirín; 3/12/1995;   Lanús
+21; DF; Rodrigo Moreira; 7/15/1996;   Independiente
+
+
+
+Team: Panama
+
+1; GK; Jaime de Gracia; 5/11/1996;   Tauro
+2; DF; Chin Hormechea; 5/12/1996;   Árabe Unido
+3; DF; Kevin Galván; 3/10/1996;   Sporting San Miguelito
+4; DF; Michael Murillo; 5/12/1996;   San Francisco
+5; MF; Francisco Narbón; 2/11/1995;   James Madison Dukes
+6; DF; Fidel Escobar; 1/9/1995;   Sporting San Miguelito
+7; MF; Julian Velarde; 9/18/1996;   Chorrillo
+8; MF; Luis Pereira; 3/27/1996;   Árabe Unido
+9; FW; Ismael Díaz; 5/12/1997;   Tauro
+10; MF; Jhamal Rodríguez; 1/28/1995;   Chorrillo
+11; FW; Ervin Zorrilla; 5/14/1996;   San Francisco
+12; GK; Martin Meléndez; 3/23/1995;   San Francisco
+13; DF; Christopher Bared; 3/13/1996;   Villanova Wildcats
+14; DF; Jesús Araya; 1/3/1996;   Tauro
+15; MF; Adalberto Carrasquilla; 11/28/1998;   Tauro
+16; MF; Edson Samms; 3/27/1995;   Sporting San Miguelito
+17; MF; Justin Simons; 9/19/1997;   Sporting San Miguelito
+18; FW; Carlos Small; 3/13/1995;   Sporting San Miguelito
+19; FW; Jesús González; 7/25/1996;   Sporting San Miguelito
+20; FW; Rubén Barrow; 4/28/1995;   Tauro
+21; GK; Carlos Secaida; 4/4/1995;   Chorrillo
+
+
+Team: Ghana
+
+1; GK; Lawrence Ati; 11/29/1996;   Red Bull Salzburg
+2; DF; Emmanuel Ntim; 3/12/1996;   Valenciennes
+3; DF; Patrick Kpozo; 7/15/1997;   Inter Allies
+4; DF; Joseph Bempah; 9/5/1995;   Hearts of Oak
+5; DF; Kingsley Fobi; 9/20/1998;   Right to Dream Academy
+6; MF; Godfred Donsah; 6/7/1996;   Cagliari
+7; FW; Samuel Tetteh; 7/28/1996;   West African Football Academy
+8; MF; Kofi Yeboah; 5/14/1995;   Wa All Stars
+9; FW; Emmanuel Boateng; 5/23/1996;   Rio Ave
+10; FW; Clifford Aboagye; 2/11/1995;   Inter Allies
+11; MF; Abraham Attobrah; 3/15/1995;   New Edubiase United
+12; GK; Kwame Baah; 4/21/1998;   Hearts of Lions
+13; MF; David Atanga; 12/25/1996;   Red Bull Salzburg
+14; DF; Joseph Aidoo; 9/29/1995;   Inter Allies
+15; DF; Joseph Adjei; 8/20/1995;   Wa All Stars
+16; GK; Mutawakilu Seidu; 8/8/1995;   Hearts of Oak
+17; FW; Yaw Yeboah; 3/28/1997;   Manchester City
+18; MF; Barnes Osei; 1/8/1995;   Paços de Ferreira
+19; FW; Benjamin Tetteh; 7/10/1997;   Tudu Mighty Jets
+20; FW; Prosper Kassim; 12/5/1996;   Inter Allies
+21; DF; Patrick Asmah; 1/25/1996;   BA Stars
+
+
+Team: Austria
+
+1; GK; Tino Casali; 11/14/1995;   Austria Wien
+2; MF; Marcus Maier; 12/18/1995;   Admira Wacker Mödling
+3; DF; Daniel Rosenbichler; 7/10/1995;   Admira Wacker Mödling
+4; DF; Lukas Gugganig; 2/14/1995;   Red Bull Salzburg
+5; DF; Philipp Lienhart; 7/11/1996;   Real Madrid
+6; DF; Francesco Lovrić; 10/5/1995;   VfB Stuttgart
+7; FW; Jakob Kreuzer; 1/15/1995;   Ried
+8; MF; Peter Michorl; 5/9/1995;   LASK Linz
+9; FW; Valentin Grubeck; 8/9/1995;   Horn
+10; MF; Markus Blutsch; 6/1/1995;   Admira Wacker Mödling
+11; MF; Andreas Gruber; 6/29/1995;   Sturm Graz
+12; GK; Stefan Mitmasser; 5/13/1995;   Horn
+13; DF; Michael Brandner; 2/13/1995;   Liefering
+14; FW; Bernd Gschweidl; 8/9/1995;   Grödig
+15; DF; Patrick Puchegger; 5/4/1995;   Bayern München
+16; DF; Alexander Joppich; 1/19/1995;   Liefering
+17; MF; Konrad Laimer; 5/27/1997;   Red Bull Salzburg
+18; MF; Martin Rasner; 5/18/1995;   Liefering
+19; FW; Thomas Gösweiner; 3/3/1995;   Admira Wacker Mödling
+20; MF; Florian Grillitsch; 8/7/1995;   Werder Bremen
+21; GK; Johannes Kreidl; 3/7/1996;   Hamburger SV
+
+
+Team: Qatar
+
+1; GK; Youssef Hassan; 5/24/1996;   Eupen
+2; DF; Tameem Al Muhaiza; 7/21/1996;   Al-Gharafa
+3; DF; Fahad Ali; 4/6/1995;   Eupen
+4; MF; Abdullah Ali; 5/10/1997;   Lekhwiya
+5; DF; Serigne Abdou; 2/28/1995;   Al-Khor
+6; DF; Salem Al Hajri; 4/10/1996;   Al-Sadd
+7; FW; Jassim Al-Jalabi; 2/21/1996;   LASK Linz
+8; MF; Ahmed Moein Doozandeh; 10/20/1995;   Eupen
+9; MF; Said Brahmi; 7/11/1995;   Al-Khor
+10; MF; Akram Afif; 2/11/1995;   Eupen
+11; DF; Sultan Al Kuwari; 8/3/1995;   Villarreal
+12; DF; Jasem Omer; 4/18/1995;   LASK Linz
+13; GK; Mohammed Al Bakari; 3/28/1997;   Lekhwiya
+14; MF; Ahmed Al Saadi; 10/29/1995;   Eupen
+15; DF; Sultan Al-Brake; 4/7/1996;   Al-Wakrah
+16; MF; Abdulrahman Anad Al Deri; 9/6/1996;   Al-Rayyan
+17; DF; Bashim Al-Rawi; 12/16/1997;   Al-Rayyan
+18; MF; Assim Omar; 10/22/1996;   LASK Linz
+19; FW; Almoez Ali; 8/19/1996;   Eupen
+20; MF; Tarek Salman; 12/5/1997;   Lekhwiya
+21; GK; Yazan Naim; 6/5/1997;   Al-Ahli
+
+
+Team: Colombia
+
+1; GK; Álvaro David Montero; 3/29/1995;   São Caetano
+2; DF; Aldayr Hernández; 8/4/1995;   Bogotá
+3; DF; Jeison Angulo; 6/27/1996;   Deportivo Cali
+4; DF; Daniel Londoño; 1/1/1995;   Envigado
+5; DF; Juan Sebastián Quintero; 3/23/1995;   Deportivo Cali
+6; MF; Andrés Tello; 9/6/1996;   Juventus
+7; MF; Deinner Quiñónes; 8/16/1995;   Deportes Quindío
+8; MF; Alexis Zapata; 5/10/1995;   Udinese
+9; MF; Joao Rodríguez; 5/19/1996;   Vitória de Setúbal
+10; MF; Sergio Villarreal; 1/29/1995;   Millonarios
+11; FW; Jeison Lucumí; 4/8/1995;   América
+12; GK; Luis Erney Vásquez; 3/1/1996;   Independiente Medellín
+13; DF; Davinson Sánchez; 6/12/1996;   Atlético Nacional
+14; MF; Rodin Quiñónes; 5/30/1995;   Atlético Nacional
+15; MF; Sebastián Ayala; 9/14/1995;   La Equidad
+16; MF; Jarlan Barrera; 9/16/1995;   Junior
+17; FW; Juan Ferney Otero; 5/26/1995;   Fortaleza
+18; FW; Carlos Ibargüen; 10/7/1995;   Cortuluá
+19; MF; Víctor Guillermo Gutiérrez; 4/20/1996;   Atlético Paranaense
+20; FW; Rafael Santos Borré; 9/15/1995;   Deportivo Cali
+21; GK; Yasser Chávez; 3/5/1995;   Bogotá
+
+
+Team: Portugal
+
+1; GK; Tiago Sá; 1/11/1995;   SC Braga B
+2; DF; Pedro Rebocho; 1/23/1995;   Benfica B
+3; DF; João Nunes; 11/19/1995;   Benfica B
+4; DF; Nélson Monte; 7/30/1995;   Rio Ave
+5; DF; Rafa; 5/9/1995;   Porto B
+6; MF; Tomás Podstawski; 1/30/1995;   Porto B
+7; MF; Raphael Guzzo; 1/6/1995;   Chaves
+8; MF; Francisco Ramos; 4/10/1995;   Porto B
+9; FW; André Silva; 11/6/1995;   Porto B
+10; MF; Rony Lopes; 12/28/1995;   Lille OSC
+11; FW; Nuno Santos; 2/13/1995;   Benfica B
+12; GK; André Moreira; 12/2/1995;   Moreirense FC
+13; DF; Mauro Riquicho; 7/4/1995;   Sporting CP B
+14; DF; Domingos Duarte; 3/10/1995;   Sporting CP B
+15; MF; Estrela; 9/22/1995;   Orlando City SC
+16; MF; Janio Bikel; 6/28/1995;   SC Heerenveen
+17; FW; Ivo Rodrigues; 3/30/1995;   Vitória SC
+18; FW; Gelson Martins; 5/11/1995;   Sporting CP B
+19; FW; João Vigário; 8/15/1995;   Vitória SC B
+20; FW; Gonçalo Guedes; 11/29/1996;   Benfica B
+21; GK; Guilherme Oliveira; 4/12/1995;   Sporting CP B
+
+
+Team: Senegal
+
+1; GK; Khadime N'Diaye; 5/27/1996;   Sporting CP
+2; MF; Abdoulaye N'Dione; 12/14/1997;   Excellence Foot
+3; DF; Andelinou Correa; 12/31/1996;   Dakar Sacré-Cœur
+4; DF; Mouhameth Sane; 1/26/1996;   Dijon
+5; FW; Papa Diene Faye; 11/30/1996;   Mbour Petite Côte
+6; DF; Elimane Cissé; 3/12/1995;   Diambars
+7; FW; Ibrahima Wadji; 5/5/1995;   Mbour Petite Côte
+8; MF; Sidy Sarr; 6/5/1996;   Mbour Petite Côte
+9; DF; Pape Abou Cissé; 9/14/1995;   Ajaccio
+10; MF; Serigne Niang; 5/1/1995;   CS Sfaxien
+11; FW; Malick Niang; 12/9/1995;   US Gorée
+12; MF; Mamadou N'Diaye; 12/30/1996;   US Ouakam
+13; DF; Alhassane Sylla; 8/24/1995;   Diambars
+14; FW; Moussa Koné; 12/30/1996;   Dakar Sacré-Cœur
+15; DF; Moussa Wague; 10/4/1998;   Excellence Foot
+16; GK; Seydou Sy; 12/12/1995;   AS Monaco
+17; MF; Roger Gomis; 3/20/1995;   CS Louhans-Cuiseaux
+18; MF; Alassane Sow; 1/3/1997;   Real Zaragoza
+19; FW; Mamadou Thiam; 3/20/1995;   Dijon
+20; MF; Remy Nassalan; 2/15/1996;   N'Dangane
+21; GK; Ibrahima Sy; 8/13/1995;   Lorient
+
+
+Team: Mexico
+
+1; GK; Jesse Gonzalez; 5/26/1995;   FC Dallas
+2; DF; Kevin Gutiérrez; 3/1/1995;   Querétaro
+3; DF; Óscar Bernal; 9/28/1995;   Santos Laguna
+4; DF; Rodrigo González; 4/12/1995;   BUAP
+5; MF; Sergio Flores; 2/12/1995;   Guadalajara
+6; MF; Víctor Guzmán; 2/23/1995;   Guadalajara
+7; MF; Érick Gutiérrez (c); 6/17/1995;   Pachuca
+8; MF; Hirving Lozano; 7/30/1995;   Pachuca
+9; FW; Guillermo Martínez; 3/15/1995;   Pachuca
+10; FW; Alejandro Díaz; 1/27/1996;   América
+11; MF; David Ramírez; 12/14/1995;   Guadalajara
+12; GK; Édson Reséndez; 1/12/1996;   Monterrey
+13; DF; Carlos Arreola; 3/4/1995;   Atlas
+14; DF; Érick Aguirre; 2/23/1997;   Morelia
+15; MF; Orbelín Pineda; 3/24/1996;   Querétaro
+16; DF; Osvaldo Rodríguez; 9/10/1996;   Pachuca
+17; MF; Luis Márquez; 2/12/1995;   Guadalajara
+18; FW; Diego Gama; 4/14/1996;   Atlético de Madrid B
+19; FW; Diego Pineda; 4/7/1995;   América
+20; MF; Mauro Laínez; 5/9/1996;   Pachuca
+21; GK; Raúl Gudiño; 4/22/1996;   Porto B
+
+
+Team: Mali
+
+1; GK; Mahammane Baye; 10/8/1996;   AS Avenir
+2; FW; Mohammed Diallo; 3/11/1996;   MC Oujda
+3; MF; Souleymane Diarra; 1/30/1995;   Wydad Casablanca
+4; DF; Youssouf Koné; 7/5/1995;   Lille OSC
+5; DF; Ichaka Diarra; 1/18/1995;   Djoliba AC
+6; DF; Hamidou Maïga; 1/2/1997;   Djoliba AC
+7; FW; Lassine Konaté; 2/21/1997;   Stade Lavallois
+8; MF; Diadie Samassékou; 1/11/1996;   AS Real Bamako
+9; MF; Saliou Guindo; 9/12/1996;   ASEC Mimosas
+10; FW; Hamidou Traoré; 10/7/1996;   Elazığspor
+11; FW; Malick Touré; 9/22/1995;   Club Africain
+12; DF; Souleymane Coulibaly; 8/8/1996;   AS Real Bamako
+13; DF; Aboubacar Doumbia; 4/19/1995;   AS Real Bamako
+14; FW; Alassane Diallo; 2/19/1995;   K.V.C. Westerlo
+15; FW; Souleymane Sissoko; 4/10/1996;   Onze Créateurs de Niaréla
+16; GK; Djigui Diarra; 2/27/1995;   Stade Malien
+17; MF; Falaye Sakho; 5/1/1995;   Djoliba AC
+18; MF; Dieudonne Gbakle; 12/20/1995;   Lille OSC
+19; FW; Adama Traoré; 6/28/1995;   Lille OSC
+20; MF; Fousseyni Diabaté; 10/18/1995;   Stade de Reims
+21; GK; Sory Traoré; 1/24/1996;   AS Bamako
+
+
+Team: Uruguay
+
+1; GK; Thiago Gastón Cardozo; 7/31/1996;   Peñarol
+2; DF; Agustín Ale; 2/19/1995;   River Plate
+3; DF; Cristian González; 7/23/1996;   Danubio
+4; DF; Mauricio Lemos; 12/28/1995;   Defensor Sporting
+5; MF; Nahitan Nández; 12/28/1995;   Peñarol
+6; MF; Diego Poyet; 4/8/1995;   West Ham United
+7; MF; Facundo Castro; 1/22/1995;   Defensor Sporting
+8; MF; Mauro Arambarri; 9/30/1995;   Defensor Sporting
+9; FW; Jaime Báez; 4/25/1995;   Defensor Sporting
+10; FW; Gastón Pereiro; 6/11/1995;   Nacional
+11; FW; Franco Acosta; 5/5/1995;   Villarreal
+12; GK; Gastón Guruceaga; 3/15/1995;   Peñarol
+13; DF; Marcelo Saracchi; 4/23/1998;   Danubio
+14; DF; Enrique Etcheverry; 5/10/1996;   Defensor Sporting
+15; FW; Kevin Méndez; 1/10/1996;   Perugia Calcio
+16; MF; Ramiro Guerra; 3/21/1995;   Villarreal
+17; DF; Mathías Suárez; 6/24/1996;   Defensor Sporting
+18; DF; Guillermo Cotugno; 3/12/1995;   Rubin Kazan
+19; DF; Erick Cabaco; 4/19/1995;   Rentistas
+20; MF; Rodrigo Amaral; 3/25/1997;   Nacional
+21; GK; Michel Tabárez; 7/29/1995;   Fénix
+
+
+Team: Serbia
+
+1; GK; Predrag Rajković; 10/31/1995;   Red Star
+2; DF; Milan Gajić; 1/28/1996;   OFK Beograd
+3; DF; Nemanja Antonov; 5/6/1995;   OFK Beograd
+4; MF; Saša Zdjelar; 3/20/1995;   OFK Beograd
+5; DF; Miloš Veljković; 9/26/1995;   Tottenham Hotspur
+6; DF; Srđan Babić; 4/22/1996;   Vojvodina
+7; FW; Ivan Šaponjić; 8/2/1997;   Partizan
+8; MF; Nemanja Maksimović; 1/26/1995;   Astana
+9; FW; Staniša Mandić; 1/27/1995;   Čukarički
+10; MF; Mijat Gaćinović; 2/8/1995;   Vojvodina
+11; MF; Andrija Živković; 7/11/1996;   Partizan
+12; GK; Filip Manojlović; 4/25/1996;   Red Star
+13; DF; Stefan Milošević; 4/7/1995;   Spartak Subotica
+14; DF; Vukašin Jovanović; 5/17/1996;   Red Star
+15; DF; Miladin Stevanović; 2/11/1996;   Partizan
+16; MF; Marko Grujić; 4/13/1996;   Red Star
+17; DF; Radovan Pankov; 8/5/1995;   Vojvodina
+18; MF; Filip Janković; 1/17/1995;   Catania
+19; FW; Stefan Ilić; 4/7/1995;   Spartak Subotica
+20; MF; Sergej Milinković-Savić; 2/27/1995;   Genk
+21; GK; Vanja Milinković-Savić; 2/20/1997;   Vojvodina
+
+
+
+Team: Nigeria
+
+
+1; GK; Joshua Enaholo; 7/24/1996;   MFM FC
+2; DF; Musa Muhammed; 10/31/1996;   Besiktas JK
+3; DF; Mustapha Abdullahi; 1/18/1996;   Spotlight F.C.
+4; MF; Akinjide Idowu; 9/9/1996;   Mutunchi Football Academy
+5; DF; Wilfred Ndidi; 12/16/1996;   Racing Genk
+6; DF; Prince Izu Omego; 8/15/1996;   Standard Academy
+7; MF; Bernard Bulbwa; 10/11/1996;   Esperance
+8; MF; Kingsley Sokari; 5/30/1995;   Enyimba
+9; FW; Isaac Success; 1/7/1996;   Granada CF
+10; MF; Kelechi Promise Iheanacho; 10/3/1996;   Manchester City F.C.
+11; FW; Musa Yahaya; 12/16/1996;   Tottenham Hotspur
+12; MF; Ifeanyi Ifeanyi; 8/15/1995;   Water FC
+13; MF; Godwin Saviour; 8/22/1996;   FC Sports
+14; MF; Chidiebere Nwakali; 12/26/1996;   Manchester City F.C.
+15; MF; Ifeanyi Matthew; 1/20/1997;   El-Kanemi Warriors
+16; GK; Dele Alampasu; 12/24/1996;   Racing Genk Academy
+17; FW; Chidera Eze; 10/2/1997;   FC Porto
+18; FW; Taiwo Awoniyi; 8/12/1997;   Kalmar FF
+19; DF; Zaharaddeen Bello; 12/17/1997;   Dabo Babes
+20; FW; Moses Simon; 7/12/1995;   KAA Gent
+21; GK; Olorunleke Ojo; 8/17/1995;   Giwa FC
+
+
+Team: Brazil
+
+1; GK; Marcos Felipe; 4/13/1996;   Fluminense
+2; DF; João Pedro; 11/15/1996;   Palmeiras
+3; DF; Lucão; 3/23/1996;   São Paulo
+4; DF; Marlon; 9/7/1995;   Fluminense
+5; MF; Danilo; 2/28/1996;   Braga
+6; DF; Caju; 7/17/1995;   Santos
+7; FW; Marcos Guilherme; 8/5/1995;   Atlético Paranaense
+8; MF; Gabriel Boschilia; 3/5/1996;   São Paulo
+9; FW; Judivan; 5/21/1995;   Cruzeiro
+10; MF; Gabriel Jesus; 4/3/1997;   Palmeiras
+11; FW; Malcom; 2/26/1997;   Corinthians
+12; GK; Georgemy; 8/15/1995;   Cruzeiro
+13; DF; Rodrigo; 5/24/1995;   Coritiba
+14; DF; Iago Maidana; 2/6/1996;   Criciúma
+15; DF; Léo Pereira; 1/31/1996;   Atlético Paranaense
+16; DF; Jorge; 3/28/1996;   Flamengo
+17; MF; Alef; 1/28/1995;   Marseille
+18; MF; Andreas Pereira; 1/1/1996;   Manchester United
+19; MF; Jajá; 3/18/1995;   Flamengo
+20; FW; Jean Carlos; 5/10/1996;   Real Madrid
+21; GK; Jean; 10/26/1995;   Bahia
+
+
+Team: North Korea
+
+
+1; GK; Ri In-hak; 1/1/1997;   Amrokgang
+2; DF; Jang Kum-nam; 11/5/1995;   April 25
+3; DF; Min Hyo-song; 1/19/1995;   April 25
+4; DF; Jon Kum-dong; 4/25/1995;   Rimyongsu
+5; FW; Choe Ju-song; 1/27/1996;   Amrokgang
+6; DF; Ro Myong-song; 1/2/1995;   Rimyongsu
+7; MF; Kang Nam-gwon; 3/6/1995;   Chobyong
+8; MF; Ri Un-chol; 7/13/1995;   Sonbong
+9; FW; Kim Yu-song; 1/24/1995;   April 25
+10; MF; Kim Chol-min; 9/21/1995;   Pyongyang City
+11; MF; Pak Chol-song; 7/2/1995;   Hwaebul
+12; MF; Kim Kwang-jin; 7/3/1995;   Hwaebul
+13; MF; Jo Kwang-myong; 1/3/1995;   April 25
+14; FW; Kim Chol-jae; 9/1/1996;   April 25
+15; DF; Kim Kuk-chol; 1/13/1995;   Hwaebul
+16; MF; Kim Song-sun; 12/31/1995;   Korea University
+17; DF; Ri Kyong-jin; 11/13/1995;   Pyongyang City
+18; GK; Cha Jong-hun; 4/19/1995;   Pyongyang City
+19; FW; Jo Sol-song; 10/27/1995;   Pyongyang City
+20; FW; So Jong-hyok; 7/1/1995;   April 25
+21; GK; Son Chol-ryong; 7/12/1995;   April 25
+
+
+Team: Hungary
+
+
+1; GK; György Székely; 6/2/1995;   Újbuda FC
+2; DF; Attila Osváth; 12/10/1995;   Szigetszentmiklósi TK
+3; DF; Krisztián Tamás; 4/18/1995;   SK Slavia Praha
+4; DF; Ákos Kecskés; 1/4/1996;   Atalanta
+5; DF; Bence Lenzsér; 4/9/1996;   Paksi SE
+6; MF; Viktor Pongrácz; 9/18/1995;   Lombard-Pápa TFC
+7; FW; László Oláh; 12/16/1995;   Vasas SC
+8; MF; Máté Vida; 3/8/1996;   Vasas SC
+9; FW; Bence Mervó; 3/5/1995;   Győri ETO FC
+10; MF; Márió Németh; 5/1/1995;   Szombathelyi Haladás
+11; FW; Donát Zsótér; 1/6/1996;   Puskás Akadémia FC
+12; GK; Dániel Horváth; 1/25/1996;   Győri ETO
+13; MF; Zsolt Kalmár; 6/9/1995;   RB Leipzig
+14; FW; Dominik Nagy; 5/8/1995;   Ferencvárosi TC
+15; DF; Attila Talabér; 5/29/1996;   MTK Budapest
+16; GK; Patrik Demjén; 3/22/1998;   MTK Budapest
+17; MF; Ádám Nagy; 6/17/1995;   Ferencvárosi TC
+18; MF; Zsombor Berecz; 12/13/1995;   Vasas SC
+19; FW; Patrik Popov; 10/12/1997;   Ferencvárosi TC
+20; MF; Roland Sallai; 5/22/1997;   Puskás Akadémia FC
+21; DF; Dávid Forgács; 9/29/1995;   Atalanta
+
+
+
+
+Team: Germany
+
+1; GK; Marvin Schwäbe; 4/25/1995;   TSG Hoffenheim
+2; DF; Grischa Prömel; 1/9/1995;   TSG Hoffenheim
+3; DF; Maximilian Wittek; 8/21/1995;   TSV 1860 München
+4; DF; Kevin Akpoguma; 4/19/1995;   TSG Hoffenheim
+5; DF; Niklas Stark; 4/14/1995;   1. FC Nürnberg
+6; MF; Julian Weigl; 9/8/1995;   TSV 1860 München
+7; FW; Levin Öztunali; 3/15/1996;   Werder Bremen
+8; MF; Matti Steinmann; 8/1/1995;   Hamburger SV
+9; FW; Tim Kleindienst; 8/31/1995;   Energie Cottbus
+10; MF; Marc Stendera; 12/10/1995;   Eintracht Frankfurt
+11; FW; Julian Brandt; 5/2/1996;   Bayer Leverkusen
+12; GK; Michael Zetterer; 7/12/1995;   Werder Bremen
+13; DF; Thomas Hagn; 2/28/1995;   SpVgg Unterhaching
+14; DF; Anthony Syhre; 3/18/1995;   Hertha BSC
+15; DF; Marc-Oliver Kempf; 1/28/1995;   SC Freiburg
+16; MF; Robert Bauer; 4/9/1995;   FC Ingolstadt
+17; FW; Jeremy Dudziak; 8/28/1995;   Borussia Dortmund
+18; MF; Hany Mukhtar; 3/21/1995;   S.L. Benfica
+19; FW; Felix Lohkemper; 1/26/1995;   VfB Stuttgart
+20; FW; Marvin Stefaniak; 3/2/1995;   Dynamo Dresden
+21; GK; Daniel Mesenhöler; 7/24/1995;   1. FC Köln
+
+
+Team: Fiji
+
+
+1; GK; Misiwani Nairube; 2/22/1996;   Ba
+2; MF; Praneel Naidu; 1/29/1995;   Ba
+3; MF; Garish Prasad; 2/1/1995;   Rewa
+4; DF; Jale Dreola; 4/21/1995;   Suva
+5; DF; Atonio Tuivuna; 3/20/1995;   Nadi
+6; DF; Mohammed Khan; 11/8/1995;   Nadi
+7; MF; Nickel Chand; 7/28/1995;   Suva
+8; MF; Setareki Hughes (c); 6/8/1995;   Rewa
+9; FW; Iosefo Verevou; 1/5/1996;   Rewa
+10; MF; Narendra Rao; 6/27/1995;   Ba
+11; FW; Gabrieile Matanisiga; 6/14/1995;   Labasa
+12; MF; Tevita Waranaivalu; 9/16/1995;   Rewa
+13; DF; Mataiasi Toma; 6/14/1997;   Nadi
+14; MF; Ravnit Chand; 1/31/1996;   Ba
+15; FW; Saula Waqa; 10/12/1995;   Ba
+16; MF; Jonetani Buksh; 7/2/1996;   Ba
+17; DF; Kolinio Sivoki; 3/10/1995;   Suva
+18; MF; Al-taaf Mansoor; 9/12/1995;   Suva
+19; FW; Arshnil Raju; 7/27/1995;   Labasa
+20; GK; Divikesh Deo; 6/15/1995;   Auckland United
+21; GK; Shaneel Naidu; 3/28/1995;   Ba
+
+
+
+Team: Uzbekistan
+
+
+1; GK; Sarvar Karimov; 12/25/1996;   Lokomotiv
+2; DF; Rustam Ashurmatov; 7/7/1996;   Bunyodkor
+3; DF; Ibrokhim Abdullaev; 12/5/1996;   Pakhtakor
+4; MF; Mirjamol Kosimov; 9/24/1995;   Bunyodkor
+5; DF; Odil Khamrobekov; 2/13/1996;   Nasaf
+6; DF; Akrom Komilov; 3/14/1996;   Bunyodkor
+7; MF; Temur Tolipov; 6/6/1995;   Pakhtakor
+8; MF; Javokhir Sokhibov (c); 3/1/1995;   Pakhtakor
+9; FW; Eldor Shomurodov; 6/29/1995;   Bunyodkor
+10; MF; Otabek Shukurov; 5/18/1995;   Bunyodkor
+11; MF; Javokhir Siddiqov; 12/8/1996;   Pakhtakor
+12; GK; Dilshod Khamraev; 7/11/1995;   Qizilqum
+13; DF; Abbas Otakhonov; 8/25/1995;   Pakhtakor
+14; MF; Khurshid Ghiyasov; 4/13/1995;   Bunyodkor
+15; DF; Najmiddin Normurodov; 6/6/1995;   Nasaf
+16; MF; Sardorbek Azimov; 6/1/1995;   Bunyodkor
+17; FW; Dostonbek Khamdamov; 7/24/1996;   Bunyodkor
+18; FW; Ravshan Khursanov; 8/12/1996;   Pakhtakor
+19; FW; Zabikhillo Urinboev; 3/30/1995;   Bunyodkor
+20; DF; Dostonbek Tursunov; 6/13/1995;   Neftchi
+21; GK; Botirali Ergashev; 6/23/1995;   Pakhtakor
+
+
+Team: Honduras
+
+1; GK; Cristian Hernández; 9/22/1996;   Motagua
+2; DF; Kevin Álvarez; 8/3/1996;   Olimpia
+3; DF; Jhonatan Paz; 6/18/1995;   Real Sociedad
+4; DF; Luis Santos; 3/5/1996;   Olimpia
+5; DF; Dabirson Castillo; 9/25/1996;   Platense
+6; DF; Carlos Moncada; 4/9/1995;   Real España
+7; FW; Michaell Chirinos; 6/17/1995;   Olimpia
+8; MF; Elder Torres; 4/14/1995;   Vida
+9; FW; Bryan Róchez; 1/1/1995;   Orlando City SC
+10; MF; José Escalante; 5/29/1995;   Olimpia
+11; MF; Kevin López; 2/3/1996;   Motagua
+12; GK; Roberto López; 4/23/1995;   Real España
+13; MF; Jhow Benavídez; 12/26/1995;   Real España
+14; MF; John Suazo; 10/7/1995;   Marathón
+15; FW; Orental Bodden; 9/24/1995;   Marathón
+16; MF; Devron García; 2/17/1996;   Victoria
+17; FW; Alberth Elis; 2/12/1996;   Olimpia
+18; DF; Marcelo Pereira; 5/27/1995;   Motagua
+19; FW; Júnior Lacayo; 8/19/1995;   Santos Laguna
+20; MF; Deybi Flores; 6/16/1996;   Vancouver Whitecaps FC
+21; GK; Rodimiro Tejada; 4/18/1996;   Parrillas One
+
+
+
