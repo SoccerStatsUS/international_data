@@ -5,69 +5,105 @@ BlockSource: https://en.wikipedia.org/wiki/2011_FIFA_U-17_World_Cup
 Stage: Group
 Group: A
 
-6/18/2011; Mexico; 3-1; North Korea
-6/18/2011; Congo; 1-0; Netherlands
-6/21/2011; North Korea; 1-1; Netherlands
-6/21/2011; Mexico; 2-1; Congo
-6/24/2011; North Korea; 1-1; Congo
-6/24/2011; Mexico; 3-2; Netherlands
+6/18/2011; Mexico; 3-1; North Korea; Estadio Morelos; Stephan Studer; 34312
+
+6/18/2011; Congo; 1-0; Netherlands; Estadio Morelos; Jafaeth Perea Amador; 34312
+
+6/21/2011; North Korea; 1-1; Netherlands; Estadio Morelos; Neant Alioum; 7500
+
+6/21/2011; Mexico; 2-1; Congo; Estadio Morelos; Tony Chapron; 25710
+
+6/24/2011; North Korea; 1-1; Congo; Estadio Morelos; Pavel Kralovec; 14206
+
+6/24/2011; Mexico; 3-2; Netherlands; Estadio Universitario (Monterrey); Victor Hugo Carrillo; 29000
 
 Group: B
 
-6/18/2011; France; 3-0; Argentina
-6/18/2011; Japan; 1-0; Jamaica
-6/21/2011; Japan; 1-1; France
-6/21/2011; Jamaica; 1-2; Argentina
-6/24/2011; Japan; 3-1; Argentina
-6/24/2011; Jamaica; 1-1; France
+6/18/2011; France; 3-0; Argentina; Estadio Universitario (Monterrey); Roberto Garcia Orozco; 16200
+
+6/18/2011; Japan; 1-0; Jamaica; Estadio Universitario (Monterrey); Neant Alioum; 8000
+
+6/21/2011; Japan; 1-1; France; Estadio Universitario (Monterrey); Victor Hugo Carrillo; 4827
+
+6/21/2011; Jamaica; 1-2; Argentina; Estadio Universitario (Monterrey); Pavel Kralovec; 9150
+
+6/24/2011; Japan; 3-1; Argentina; Estadio Morelos; Neant Alioum; 10200
+
+6/24/2011; Jamaica; 1-1; France; Estadio Universitario (Monterrey); Helder Martins de Carvalho; 7566
 
 Group: C
 
-6/19/2011; Rwanda; 0-2; England
-6/19/2011; Uruguay; 3-0; Canada
-6/22/2011; Uruguay; 1-0; Rwanda
-6/22/2011; Canada; 2-2; England
-6/25/2011; Uruguay; 0-2; England
-6/25/2011; Canada; 0-0; Rwanda
+6/19/2011; Rwanda; 0-2; England; Estadio Hidalgo; Norbert Hauata; 12640
+
+6/19/2011; Uruguay; 3-0; Canada; Estadio Hidalgo; Alexey Nikolaev; 12699
+
+6/22/2011; Uruguay; 1-0; Rwanda; Estadio Hidalgo; Svein Oddvar Moen; 12999
+
+6/22/2011; Canada; 2-2; England; Estadio Hidalgo; Omar Ponce; 17882
+
+6/25/2011; Uruguay; 0-2; England; Estadio Corona; Ali Hamad Al-Badwawi; 11410
+
+6/25/2011; Canada; 0-0; Rwanda; Estadio Hidalgo; Tony Chapron; 5803
 
 Group: D
 
-6/19/2011; Uzbekistan; 1-4; New Zealand
-6/19/2011; United States; 3-0; Czech Republic
-6/22/2011; United States; 1-2; Uzbekistan
-6/22/2011; Czech Republic; 1-0; New Zealand
-6/25/2011; United States; 0-0; New Zealand
-6/25/2011; Czech Republic; 1-2; Uzbekistan
+6/19/2011; Uzbekistan; 1-4; New Zealand; Estadio Corona; Helder Martins de Carvalho; 7561
+
+6/19/2011; United States; 3-0; Czech Republic; Estadio Corona; Diego Abal; 15083
+
+6/22/2011; United States; 1-2; Uzbekistan; Estadio Corona; Alexey Nikolaev; 4133
+
+6/22/2011; Czech Republic; 1-0; New Zealand; Estadio Corona; Roberto Garcia Orozco; 10105
+
+6/25/2011; United States; 0-0; New Zealand; Estadio Hidalgo; Bas Nijhuis; 8556
+
+6/25/2011; Czech Republic; 1-2; Uzbekistan; Estadio Corona; Raymon Bogle; 14673
 
 Group: E
 
-6/20/2011; Germany; 6-1; Ecuador
-6/20/2011; Burkina Faso; 0-1; Panama
-6/23/2011; Burkina Faso; 0-3; Germany
-6/23/2011; Panama; 1-2; Ecuador
-6/26/2011; Burkina Faso; 0-2; Ecaudor
-6/26/2011; Panama; 0-2; Germany
+6/20/2011; Germany; 6-1; Ecuador; Estadio Corregidora; Elmer Bonilla; 23500
+
+6/20/2011; Burkina Faso; 0-1; Panama; Estadio Corregidora; Bas Nijhuis; 25167
+
+6/23/2011; Burkina Faso; 0-3; Germany; Estadio Corregidora; Paul Delgadillo; 14603
+
+6/23/2011; Panama; 1-2; Ecuador; Estadio Corregidora; Nawaf Ghayyath Shukralla; 18650
+
+6/26/2011; Burkina Faso; 0-2; Ecaudor; Estadio Omnilife; Alexey Nikolaev; 15165
+
+6/26/2011; Panama; 0-2; Germany; Estadio Corregidora; Norbert Hauata; 28500
 
 Group: F
 
-6/20/2011; Brazil; 3-0; Denmark
-6/20/2011; Australia; 2-1; Ivory Coast
-6/23/2011; Australia; 0-1; Brazil
-6/23/2011; Ivory Coast; 4-2; Denmark
-6/26/2011; Ivory Coast; 3-3; Brazil
-6/27/2011; Australia; 1-1; Denmark
+6/20/2011; Brazil; 3-0; Denmark; Estadio Omnilife; Ali Al Badwawi; 18845
+
+6/20/2011; Australia; 2-1; Ivory Coast; Estadio Omnilife; Raymond Bogle; 20728
+
+6/23/2011; Australia; 0-1; Brazil; Estadio Omnilife; Stephan Studer; 21159
+
+6/23/2011; Ivory Coast; 4-2; Denmark; Estadio Omnilife; Elmer Bonilla; 22126
+
+6/26/2011; Ivory Coast; 3-3; Brazil; Estadio Omnilife; Roberto Garcia Orozco; 24943
+
+6/27/2011; Australia; 1-1; Denmark; Estadio Corregidora; Diego Abal; 2000
 
 Round: Round of 16
 Group: 
 
 6/29/2011; Uzbekistan; 4-0; Australia; Estadio Corona; Victor Hugo Carrillo; 8340
+
 6/29/2011; Brazil; 2-0; Ecuador; Estadio Omnilife; Pavel Kralovec; 19335
+
 6/29/2011; Congo; 1-2; Uruguay; Estadio Morelos; Raymon Bogle; 12350
+
 6/29/2011; Japan; 6-0; New Zealand; Estadio Universitario; Stephen Studer; 7930
 
 6/30/2011; Germany; 4-0; United States; Estadio Corregidora; Omar Ponce; 16191
+
 6/30/2011; England; 1-1; Argentina; Estadio Hidalgo; Nawaf Ghayyath Shukralla; 6807
+
 6/30/2011; France; 3-2; Ivory Coast; Estadio Corregidora; Elmer Bonilla; 18192
+
 6/30/2011; Mexico; 2-0; Panama; Estadio Hidalgo; Svein Oddvar Moen; 15415
 
 Round: Quarterfinals
@@ -86,7 +122,7 @@ Round: Semifinals
 
 7/7/2011; Germany; 2-3; Mexico; Estadio Corona; Omar Ponce; 26086
 
-Round: 3rd
+Round: 3rd Place
 
 7/10/2011; Brazil; 3-4; Germany; Estadio Azteca; Roberto Garcia Orozco; 94379
 

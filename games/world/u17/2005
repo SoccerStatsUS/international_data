@@ -2,8 +2,47 @@ Competition: FIFA U-17 World Cup
 Season: 2005
 BlockSource: https://en.wikipedia.org/wiki/2005_FIFA_U-17_World_Championship
 
+Stage: group
+Group: A
+
+9/16/2005; China; 1-1; Costa Rica
+9/16/2005; Peru; 1-1; Ghana
+9/19/2005; Ghana; 1-1; Costa Rica
+9/19/2005; Peru; 0-1; China
+9/22/2005; Costa Rica; 2-0; Peru
+9/22/2005; Ghana; 1-1; China
+
+Group: B
+
+9/16/2005; Uruguay; 0-2; Mexico
+9/16/2005; Turkey; 1-0; Australia
+9/19/2005; Mexico; 3-0; Australia
+9/19/2005; Uruguay; 2-3; Turkey
+9/22/2005; Australia; 2-1; Uruguay
+9/22/2005; Mexico; 1-2; Turkey
+
+Group: C
+
+9/17/2005; Ivory Coast; 3-4; Italy
+9/17/2005; United States; 3-2; North Korea 
+9/20/2005; Italy; 1-3; United States
+9/20/2005; Ivory Coast; 0-3; North Korea
+9/23/2005; United States; 1-1; Ivory Coast
+9/23/2005; Italy; 1-1; North Korea
+
+Group: D
+
+9/17/2005; Netherlands; 5-3; Qatar
+9/17/2005; Brazil; 1-3; Gambia
+9/20/2005; Qatar; 1-3; Gambia
+9/20/2005; Netherlands; 1-2; Brazil
+9/23/2005; Gambia; 0-2; Netherlands
+9/23/2005; Qatar; 0-6; Brazil
+
+
+Stage: elimination
 Round: Quarterfinals
-Group: 
+
 
 9/25/2005; Costa Rica; 1-3 (aet); Mexico; Estadio Miguel Grau; Subkhiddin Salleh; 14724
 
@@ -19,7 +58,7 @@ Round: Semifinals
 
 9/29/2005; Turkey; 3-4; Brazil; Estadio Mansiche; Frank De Bleeckere; 19000
 
-Round: 3rd
+Round: 3rd place
 
 10/2/2005; Netherlands; 2-1; Turkey; Estadio Nacional, Lima; Jorge Larrionda; 35000
 

@@ -5,11 +5,93 @@ BlockSource: http://en.wikipedia.org/wiki/2007_FIFA_U-17_World_Cup
 Stage: group
 
 Group: A
-Group: A
-Group: A
-Group: A
-Group: A
-Group: A
+
+8/18/2007; Costa Rica; 1-1; Togo
+8/18/2007; South Korea; 0-1; Peru
+8/21/2007; Togo; 0-0; Peru
+8/21/2007; Costa Rica; 2-0; South Korea
+8/24/2007; South Korea; 2-1; Togo
+8/24/2007; Peru; 1-0; Costa Rica
+
+Group: B
+
+8/18/2007; North Korea; 1-1; England
+8/18/2007; Brazil; 7-0; New Zealand
+8/21/2007; New Zealand; 0-5; England
+8/21/2007; Brazil; 6-1; North Korea
+8/24/2007; North Korea; 1-0; New Zealand
+8/24/2007; England; 2-1; Brazil
+
+Group: C
+
+8/19/2007; Honduras; 2-4; Spain
+8/19/2007; Argentina; 0-0; Syria
+8/22/2007; Syria; 1-2; Spain
+8/22/2007; Argentina; 4-1; Honduras
+8/25/2007; Honduras; 0-2; Syria
+8/25/2007; Spain; 1-1; Argentina
+
+Group: D
+
+8/19/2007; Nigeria; 2-1; France
+8/19/2007; Japan; 3-1; Haiti
+8/22/2007; Haiti; 1-1; France
+8/22/2007; Japan; 0-3; Nigeria
+8/25/2007; Nigeria; 4-1; Haiti
+8/25/2007; France; 2-1; Japan
+
+Group: E
+
+8/20/2007; Belgium; 2-4; Tunisia
+8/20/2007; Tajikistan; 4-3; United States
+8/23/2007; United States; 1-3; Tunisia
+8/23/2007; Tajikistan; 0-1; Belgium
+8/26/2007; Belgium; 0-2; United States
+8/26/2007; Tunisia; 1-0; Tajikistan
+
+Group: F
+
+8/20/2007; Colombia; 3-3; Germany
+8/20/2007; Trinidad and Tobago; 1-4; Ghana
+8/23/2007; Ghana; 2-3; Germany
+8/23/2007; Trinidad and Tobago; 0-5; Colombia
+8/26/2007; Colombia; 1-2; Ghana
+8/26/2007; Germany; 5-0; Trinidad and Tobago
 
 Stage: knockout
 Round: of 16
+
+Round: quarterfinals
+
+8/29/2007; Spain; 3-0; North Korea
+8/29/2007; Tunisia; 1-3 (aet); France
+8/29/2007; Peru; 1-1 (aet); Tajikistan
+Penalty kicks: 5-4
+8/29/2007; Ghana; 1-0; Brazil
+8/30/2007; Argentina; 2-0; Costa Rica
+8/30/2007; Nigeria; 2-1; Colombia
+8/30/2007; England; 3-1; Syria
+8/30/2007; Germany; 2-1; United States
+
+9/1/2007; Spain; 1-1 (aet); France
+Penalty kicks: 5-4
+
+9/1/2007; Peru; 0-2; Ghana
+
+9/2/2007; Argentina; 0-2; Nigeria
+
+9/2/2007; England; 1-4; Germany
+
+Round: semifinals
+
+9/5/2007; Spain; 2-1 (aet); Ghana
+9/6/2007; Nigeria; 3-1; Germany
+
+Round: third place
+
+9/9/2007; Ghana; 1-2; Germany
+
+Round: Final
+
+9/9/2007; Spain; 0-0 (aet); Nigeria
+Penalty kicks: 0-3
