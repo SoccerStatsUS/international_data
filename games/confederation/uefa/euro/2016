@@ -5,9 +5,11 @@ BlockSource: http://en.wikipedia.org/wiki/UEFA_Euro_2016
 Stage: group
 Group: A
 
-6/10/2016; France; v; Romania; Stade de France
+6/10/2016; France; 2-1; Romania; Stade de France; Viktor Kassai; 75113
+Oliveir Giroud 57, Dimitri Payet 89; Bogdan Stancu (pk) 65
 
-6/11/2016; Albania; v; Switzerland; Stade Bollaert-Delelis
+6/11/2016; Albania; 0-1; Switzerland; Stade Bollaert-Delelis; Carlos Velasco Carballo; 33805
+; Fabian Schar 5
 
 6/15/2016; Romania; v; Switzerland; Parc des Princes
 
@@ -19,9 +21,11 @@ Group: A
 
 Group: B
 
-6/11/2016; Wales; v; Slovakia; Nouveau Stade de Bourdeaux
+6/11/2016; Wales; 2-1; Slovakia; Nouveau Stade de Bourdeaux; Svein Oddvar Moen; 37831
+Gareth Bale 10, Hal Robson-Kanu 81; Ondrej Duda 61
 
-6/11/2016; England; v; Russia; Stade Velodrome (Marseille)
+6/11/2016; England; 1-1; Russia; Stade Velodrome (Marseille); Nicola Rizzoli; 62343
+Eric Dier 73; Vasili Berezutski 90+2
 
 6/15/2016; Russia; v; Slovakia; Stade Pierre-Mauroy
 
@@ -33,9 +37,11 @@ Group: B
 
 Group: C
 
-6/12/2016; Poland; v; Northern Ireland; Allianz Rivera
+6/12/2016; Poland; 1-0; Northern Ireland; Allianz Rivera; Ovidiu Hategan; 33742
+Arkadiusz Milik 51;
 
-6/12/2016; Germany; v; Ukraine; Stade Pierre-Mauroy
+6/12/2016; Germany; 2-0; Ukraine; Stade Pierre-Mauroy; Martin Atkinson; 43035
+Shkodran Mustafi 19, Bastian Schweinsteiger 90+2; 
 
 6/16/2016; Ukraine; v; Northern Ireland; Parc Olympique Lyonnais
 
@@ -47,9 +53,11 @@ Group: C
 
 Group: D
 
-6/12/2016; Turkey; v; Croatia; Parc des Princes
+6/12/2016; Turkey; 0-1; Croatia; Parc des Princes; Jonas Eriksson; 43842
+; Luka Modric 41
 
-6/13/2016; Spain; v; Czech Republic; Stadium Municipal (Toulouse)
+6/13/2016; Spain; 1-0; Czech Republic; Stadium Municipal (Toulouse); Szymon Marciniak; 29400
+Gerard Pique 87;
 
 6/17/2016; Czech Republic; v; Croatia; Stade Geoffroy-Guichard
 
@@ -61,9 +69,11 @@ Group: D
 
 Group: E
 
-6/13/2016; Ireland; v; Sweden; Stade de France
+6/13/2016; Ireland; 1-1; Sweden; Stade de France; Milorad Mazic; 73419
+Wes Hoolahan 48; Ciaran Clark (og) 71
 
-6/13/2016; Belgium; v; Italy; Parc Olympique Lyonnais
+6/13/2016; Belgium; 0-2; Italy; Parc Olympique Lyonnais; Mark Clattenburg; 55408
+; Emanuele Giaccherini 32, Graziano Pelle 90+3
 
 6/17/2016; Italy; v; Sweden; Stadium Municipal (Toulouse)
 
@@ -75,7 +85,8 @@ Group: E
 
 Group: F
 
-6/14/2016; Austria; v; Hungary; Nouveau Stade de Bourdeaux
+6/14/2016; Austria; 0-2; Hungary; Nouveau Stade de Bourdeaux; Clement Turpin
+; Adam Szalai 62, Zoltan Stieber 87
 
 6/14/2016; Portugal; v; Iceland; Stade Geoffroy-Guichard
 
@@ -86,3 +97,6 @@ Group: F
 6/22/2016; Iceland; v; Austria; Stade de France (Saint-Denis)
 
 6/22/2016; Hungary; v; Portugal; Parc Olympique Lyonnais
+
+
+Stage: knockout
